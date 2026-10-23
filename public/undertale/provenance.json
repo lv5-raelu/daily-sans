@@ -1,0 +1,263 @@
+{
+  "retrieved": "2026-10-21",
+  "game": "UNDERTALE",
+  "creator": "Toby Fox",
+  "reference": "https://github.com/Jcw87/c2-sans-fight/tree/gh-pages",
+  "files": [
+    {
+      "path": "images/battlefont.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/battlefont.png",
+      "sha256": "46ec0d1fc711d30cecd6085f8392d7e982b76fcad24e4675c927524ba2b4bc37"
+    },
+    {
+      "path": "images/boneh.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/boneh.png",
+      "sha256": "86c08611dc32f89a56d2850597b80097ffb69f31e946e6f7e13b44d0653bb164"
+    },
+    {
+      "path": "images/bonev.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/bonev.png",
+      "sha256": "6c1b9b4f7659b960dadee85c0fb741cf7137de7d36e98c0d07870338c93c7974"
+    },
+    {
+      "path": "images/damagefont.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/damagefont.png",
+      "sha256": "41a599e7226073c2f298aa7bb8bc76b84ff29fa019dd4864062ab7d3c22835a4"
+    },
+    {
+      "path": "images/defaultfont.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/defaultfont.png",
+      "sha256": "ebe2a719b7468f65696ee87f3044071bbd18b158b86fddb5f7784ad070a402f2"
+    },
+    {
+      "path": "images/gasterblaster-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/gasterblaster-sheet0.png",
+      "sha256": "066c3ecf866c429c374b8e4936befdb71202ef1916a2e7adb12f969cd7970d69"
+    },
+    {
+      "path": "images/gasterblaster-sheet1.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/gasterblaster-sheet1.png",
+      "sha256": "1991ea181dbe66ecfc98cbf8dffa8709210c1e401cc6ca9c063630f633d88e79"
+    },
+    {
+      "path": "images/heartshard-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/heartshard-sheet0.png",
+      "sha256": "3955eb89aef17074d5d15755ca7fe4ce2969097589ea036cd0ed5b0c2dc5d7f7"
+    },
+    {
+      "path": "images/heartshard-sheet1.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/heartshard-sheet1.png",
+      "sha256": "184fe2137dee2141e9489ff3c6711382fb25c5544280b31e74f5df1d0de02cb9"
+    },
+    {
+      "path": "images/heartshard-sheet2.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/heartshard-sheet2.png",
+      "sha256": "5197d0fd528ab99028a474ffe9fa18356d1ff5aa7cea719bd2a0edaae8f9333d"
+    },
+    {
+      "path": "images/hp-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/hp-sheet0.png",
+      "sha256": "154f233f158225ee45ebf529cabfa7107e8336d0e3cc95dbfa111cadd9b021ae"
+    },
+    {
+      "path": "images/kr-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/kr-sheet0.png",
+      "sha256": "38c0d45e590a32ca1a3a0000a9dbceac75579d190cf21016eb6dc5796b3450b7"
+    },
+    {
+      "path": "images/menubonebottom-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/menubonebottom-sheet0.png",
+      "sha256": "6cdb85e1196eec41deb6065551529357a59a1002e2ea24e2cb7fd4b04e55a243"
+    },
+    {
+      "path": "images/menuitem-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/menuitem-sheet0.png",
+      "sha256": "031a471d0d719f8e0880b3ea7cd601320d4633fb8cd371593be9f49757a71a37"
+    },
+    {
+      "path": "images/platform1.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/platform1.png",
+      "sha256": "4be76dc079ad8ba3ac92c0b9c0742e2810d7cc4e8c147808aee5c4df9c7dfb95"
+    },
+    {
+      "path": "images/platform2.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/platform2.png",
+      "sha256": "c83536e34b103693b83e75de7955a4e3f451ef551ad038c3eeca555d4773ce46"
+    },
+    {
+      "path": "images/playerheart-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/playerheart-sheet0.png",
+      "sha256": "3a22b8bdff456ac50e28e90fc211697c0833bcbe6fbaeb402c84ed4eeb4a3e00"
+    },
+    {
+      "path": "images/playerheart-sheet1.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/playerheart-sheet1.png",
+      "sha256": "a30a348650ff5e0bd022fba5fe19fec6e875c8f5cb2acc803e20e5c3eb6fe460"
+    },
+    {
+      "path": "images/playerhitbox-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/playerhitbox-sheet0.png",
+      "sha256": "bbfcefe415cae37a5b6dcbaa09d083e1b5e2cd5d2ca451ae67535c362a1d8503"
+    },
+    {
+      "path": "images/sansbody-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/sansbody-sheet0.png",
+      "sha256": "c5c8cba7f8c4ea2967488d7210302e5c90e144850f294327723b881ddabc2064"
+    },
+    {
+      "path": "images/sansbody-sheet1.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/sansbody-sheet1.png",
+      "sha256": "a39e05f211df99d40bc9fec1399339ea9b9d99bc750eaff9fe9aae8385e0fd1d"
+    },
+    {
+      "path": "images/sansfont.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/sansfont.png",
+      "sha256": "0d82d6bd6158d078b47175332f2d93409ba4f1fc2b09e859ce1dad843fa0548a"
+    },
+    {
+      "path": "images/sanshead-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/sanshead-sheet0.png",
+      "sha256": "c825b7f5551c07e6541b617502dd46ea01cca0b62e9768966cbdf250e9773575"
+    },
+    {
+      "path": "images/sanslegs-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/sanslegs-sheet0.png",
+      "sha256": "164f5d02db9a1d5be879a95571e56578d97e75939b5e7586110fd49590d14552"
+    },
+    {
+      "path": "images/sanssweat-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/sanssweat-sheet0.png",
+      "sha256": "142effcb402653940715bb0233002dd91d8b3270d7c6dcd2c30b4b54de6e640f"
+    },
+    {
+      "path": "images/sanstorso-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/sanstorso-sheet0.png",
+      "sha256": "d782b4a685e0e1e92439ca34112a72dac2b716ca4de646e2ff5dfcdc0ee6f590"
+    },
+    {
+      "path": "images/speechbubble-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/speechbubble-sheet0.png",
+      "sha256": "2f532ce05977fc61def41d87fb048279c105820cb0da0d067a928ef53f28f615"
+    },
+    {
+      "path": "images/strike-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/strike-sheet0.png",
+      "sha256": "11e336667abc2a18eb5ce704a3554599106c34b9402d81c1000100bba0e2fcae"
+    },
+    {
+      "path": "images/target-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/target-sheet0.png",
+      "sha256": "3fb405bd87044cbe2e75aad730db9a0324a15d246f911eb83e99d1a5c227b454"
+    },
+    {
+      "path": "images/targetchoice-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/targetchoice-sheet0.png",
+      "sha256": "d4ad98d7191b886a87630e720f60eb285e6ad66eb0817d18decc96267f864b56"
+    },
+    {
+      "path": "images/uiact-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/uiact-sheet0.png",
+      "sha256": "137a320cd18d02e49926a72b6b1cfb592b7731b945acb881e5455efb4c7b9f80"
+    },
+    {
+      "path": "images/uifight-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/uifight-sheet0.png",
+      "sha256": "7f0d746b830b5ac2a374b202279281e0e25b9956698298c6822fee2e913fe153"
+    },
+    {
+      "path": "images/uiitem-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/uiitem-sheet0.png",
+      "sha256": "04cbd0bfc98db43a05fbbd3dadb1b633b8109922b273bd62930c7678443015fc"
+    },
+    {
+      "path": "images/uimercy-sheet0.png",
+      "url": "https://jcw87.github.io/c2-sans-fight/images/uimercy-sheet0.png",
+      "sha256": "c679ecfbb58f203ac2a6da8a83f912c22dc4ea45bbb13ed0dfbde6bfed5c8e91"
+    },
+    {
+      "path": "media/battletext.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/battletext.ogg",
+      "sha256": "0d759b57f92abe3f5b1624aea01930a5a40aee1070ab8d641966b6df91d8fd5d"
+    },
+    {
+      "path": "media/bonestab.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/bonestab.ogg",
+      "sha256": "be42e4a870bc020411c44f1667d1575477e3dc9c6a2c49c4143cd8c742ac27a9"
+    },
+    {
+      "path": "media/ding.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/ding.ogg",
+      "sha256": "629acc0b227596293cf89cd2e58eb8911c1938f5b4b37208c235a7f1e32198ca"
+    },
+    {
+      "path": "media/flash.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/flash.ogg",
+      "sha256": "10cc5ea1532d6476b60ed8beb6a7ef29123dc5a1998fdb6cb7b0332f14e6484b"
+    },
+    {
+      "path": "media/gasterblast.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/gasterblast.ogg",
+      "sha256": "b85c9b97fb7f4bd8c5368acafb8b427dc1c7e139fb8523387e4554a4723aeeae"
+    },
+    {
+      "path": "media/gasterblast2.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/gasterblast2.ogg",
+      "sha256": "f391b3ec470664453927ff0b6c151e0e162d392023656f851f76ed4cbf5a2916"
+    },
+    {
+      "path": "media/gasterblaster.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/gasterblaster.ogg",
+      "sha256": "62b766780c2f201a2e0701bd178bed89ebd07ec9b36643b81848ccebce373fd7"
+    },
+    {
+      "path": "media/heartshatter.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/heartshatter.ogg",
+      "sha256": "f661fdea823a13e8631d9aa6dee9c0ee5b1c7078809f522de2695e740b0b80bc"
+    },
+    {
+      "path": "media/heartsplit.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/heartsplit.ogg",
+      "sha256": "07cb2c0862e2858aeff6428b5665165236e3d4457f36a3deb671a71d3d6ab2af"
+    },
+    {
+      "path": "media/menucursor.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/menucursor.ogg",
+      "sha256": "2ac14a7ef02699f3d11a2a31525f7d3f0a98fc7711eedad7e17edcfe492a9094"
+    },
+    {
+      "path": "media/menuselect.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/menuselect.ogg",
+      "sha256": "060f02922b558548e0431bffa28a13670e537aa9e091d8b654cebe02eea2a0ec"
+    },
+    {
+      "path": "media/playerdamaged.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/playerdamaged.ogg",
+      "sha256": "a18842492e0701b9801ee5db6a3cd695cc973f50aec97cc4e7c87283c77ba213"
+    },
+    {
+      "path": "media/playerfight.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/playerfight.ogg",
+      "sha256": "f8a710d14e48b0ab1ad3c30d6351a87bedbcdb25de9a221eddaf1a81ad63b524"
+    },
+    {
+      "path": "media/playerheal.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/playerheal.ogg",
+      "sha256": "dd28132be6cc66429a68aaa58209d143e247752fb6e6e9d43a9aea37c748fc11"
+    },
+    {
+      "path": "media/sansspeak.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/sansspeak.ogg",
+      "sha256": "2d17c75d69ac59de33c1ddd57dc3057eb6f6c96c4e3d953479c9c2f24da34142"
+    },
+    {
+      "path": "media/slam.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/slam.ogg",
+      "sha256": "ed83c72888f4423e4cba6eb29d3053eee9816a5d5575f45d308105a57e3f8ff7"
+    },
+    {
+      "path": "media/warning.ogg",
+      "url": "https://jcw87.github.io/c2-sans-fight/media/warning.ogg",
+      "sha256": "4e469aaa9bc7e2f19aa6a0598dcec85b0b88796ab93617b4b95c83333dd2d920"
+    }
+  ]
+}

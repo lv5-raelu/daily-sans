@@ -1,0 +1,52 @@
+<!doctype html><html lang="en"><title>Speech audio regression check</title><body><pre id="result">Checking…</pre><script type="module">
+import { SpeechAudio } from '/src/daily/speech-audio.ts';
+try {
+  const Native = window.AudioContext;
+  const rate = 44100, offline = new OfflineAudioContext(2, rate * .32, rate);
+  window.AudioContext = function () { return offline; };
+  const player = new SpeechAudio();
+  try { await player.load(new URL('/vendor/c2-sans-fight/media/sansspeak.ogg', location.href)); }
+  finally { window.AudioContext = Native; }
+  const sample = await offline.decodeAudioData(await (await fetch('/vendor/c2-sans-fight/media/sansspeak.ogg')).arrayBuffer());
+  const cuts = [];
+  const wait1 = offline.suspend(1 / 15), wait2 = offline.suspend(2 / 15), wait3 = offline.suspend(3 / 15);
+  player.play(); const rendering = offline.startRendering();
+  await wait1; cuts.push(offline.currentTime); player.play(); await offline.resume();
+  await wait2; cuts.push(offline.currentTime); player.play(); await offline.resume();
+  await wait3; cuts.push(offline.currentTime); player.stop(); await offline.resume();
+  const smooth = await rendering;
+  const abrupt = new OfflineAudioContext(2, rate * .32, rate);
+  let previous;
+  for (const time of [0, ...cuts.slice(0, 2)]) {
+    if (previous) previous.stop(time);
+    const node = abrupt.createBufferSource(); node.buffer = sample;
+    node.connect(abrupt.destination); node.start(time); previous = node;
+  }
+  previous.stop(cuts[2]);
+  const hard = await abrupt.startRendering(), a = hard.getChannelData(0), b = smooth.getChannelData(0);
+  const edges = cuts.map(time => {
+    const index = Math.round(time * rate);
+    return { at: time, abruptJump: Math.abs(a[index] - a[index - 1]), fadedJump: Math.abs(b[index] - b[index - 1]) };
+  });
+  const tailPeak = b.slice(Math.ceil((cuts[2] + .004) * rate)).reduce((max, n) => Math.max(max, Math.abs(n)), 0);
+  const peak = b.reduce((max, n) => Math.max(max, Math.abs(n)), 0);
+  const birdsOffline = new OfflineAudioContext(2, rate * .6, rate);
+  window.AudioContext = function () { return birdsOffline; };
+  const opening = new SpeechAudio();
+  try {
+    await opening.load(new URL('/vendor/c2-sans-fight/media/sansspeak.ogg', location.href), new URL('/daily-assets/birds.ogg', location.href));
+  } finally { window.AudioContext = Native; }
+  const stopBirds = birdsOffline.suspend(.2);
+  opening.startOpening();
+  const birdsRendering = birdsOffline.startRendering();
+  await stopBirds;
+  const cutoff = birdsOffline.currentTime;
+  opening.stopOpening(); opening.stopOpening();
+  await birdsOffline.resume();
+  const birds = (await birdsRendering).getChannelData(0), cut = Math.round(cutoff * rate);
+  const birdEnergy = birds.slice(0, cut).reduce((sum, n) => sum + n * n, 0);
+  const birdTail = birds.slice(cut).reduce((max, n) => Math.max(max, Math.abs(n)), 0);
+  const passed = edges.every(edge => edge.fadedJump < edge.abruptJump / 2) && tailPeak === 0 && peak < 1 && birdEnergy > 0 && birdTail === 0;
+  document.getElementById('result').textContent = JSON.stringify({ passed, sampleDuration: sample.duration, edges, tailPeak, peak, ambience: { cutoff, birdEnergy, tailPeak: birdTail } }, null, 2);
+} catch (error) { document.getElementById('result').textContent = String(error.stack || error); }
+</script></body></html>

@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+coverage/
+public/undertale-original/
+reference/steam-build/
+__pycache__/
+reference/c2-source/

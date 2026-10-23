@@ -1,0 +1,461 @@
+{
+  "sourceArchiveSha256": "91a8acf1f40bd7c45d0bdb978de55187e7fb2cd76a1e2cda41c078dd44d3565e",
+  "code": {
+    "gml_Object_obj_sansb_Alarm_5": "4fd5ce076e8c22319938eca5aeca9f36af6192c528911d219ece98bb4b623ef8",
+    "gml_Object_obj_sansb_Alarm_6": "6c17eb57f8b762837f53d1efbf32af02ba475b7ec77d5186457ede29589c5e60",
+    "gml_Object_obj_sansb_body_Draw_0": "6c773f0c15750c43f9bcb2c5b99ec8df668db19417b3ce917375f6961a9006d3",
+    "gml_Object_obj_base_writer_Draw_0": "ed3fa900e13539a1853123ab3a48c79ce8afc9ff25117c616c48671981e8a595"
+  },
+  "turns": {
+    "1": {
+      "face": 3,
+      "torso": 1,
+      "sweat": 0
+    },
+    "2": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 0
+    },
+    "3": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 0
+    },
+    "4": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 0
+    },
+    "5": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 0
+    },
+    "6": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 0
+    },
+    "7": {
+      "face": 0,
+      "torso": 1,
+      "sweat": 0
+    },
+    "8": {
+      "face": 0,
+      "torso": 1,
+      "sweat": 0
+    },
+    "9": {
+      "face": 0,
+      "torso": 1,
+      "sweat": 0
+    },
+    "10": {
+      "face": 0,
+      "torso": 1,
+      "sweat": 0
+    },
+    "11": {
+      "face": 0,
+      "torso": 1,
+      "sweat": 0
+    },
+    "12": {
+      "face": 0,
+      "torso": 1,
+      "sweat": 0
+    },
+    "13": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 2
+    },
+    "14": {
+      "face": 0,
+      "torso": 1,
+      "sweat": 2
+    },
+    "15": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 2
+    },
+    "16": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 2
+    },
+    "17": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 2
+    },
+    "18": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 2
+    },
+    "19": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 2
+    },
+    "20": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 1
+    },
+    "21": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 1
+    },
+    "22": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 2
+    },
+    "23": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 0
+    }
+  },
+  "sprites": {
+    "spr_sansb_handup": {
+      "width": 64,
+      "height": 73,
+      "origin": [
+        30,
+        34
+      ],
+      "frames": [
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handup/0.png",
+          "bytes": 511,
+          "sha256": "287a45b5282ef4ea8d297ef729c5fcab408b39092668a709e0980be2c0f685ae"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handup/1.png",
+          "bytes": 530,
+          "sha256": "ba7f1963e36cbefe946ae55c585651b502d173f5a6d058395754ce2edec3e633"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handup/2.png",
+          "bytes": 609,
+          "sha256": "381edb3473fd16b38d77ffcb4ceabfa882cc3627136349164f9ddd1e91db36fd"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handup/3.png",
+          "bytes": 537,
+          "sha256": "dc08668f855bde9fb1191e6a386c991f8ca254743ebba11ea5bd91beba146307"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handup/4.png",
+          "bytes": 552,
+          "sha256": "0d63949b075339baac23e34c1ce7330e66d064673d4ba74ee571ce9e91a36ad6"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handup/5.png",
+          "bytes": 552,
+          "sha256": "0d63949b075339baac23e34c1ce7330e66d064673d4ba74ee571ce9e91a36ad6"
+        }
+      ]
+    },
+    "spr_sansb_handdown": {
+      "width": 64,
+      "height": 73,
+      "origin": [
+        30,
+        34
+      ],
+      "frames": [
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handdown/0.png",
+          "bytes": 552,
+          "sha256": "0d63949b075339baac23e34c1ce7330e66d064673d4ba74ee571ce9e91a36ad6"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handdown/1.png",
+          "bytes": 537,
+          "sha256": "dc08668f855bde9fb1191e6a386c991f8ca254743ebba11ea5bd91beba146307"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handdown/2.png",
+          "bytes": 602,
+          "sha256": "fbb8c8570232e39dfc1cdaf9616946b57400f732d74b4d01afebc122542b9f0b"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handdown/3.png",
+          "bytes": 530,
+          "sha256": "ba7f1963e36cbefe946ae55c585651b502d173f5a6d058395754ce2edec3e633"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_handdown/4.png",
+          "bytes": 530,
+          "sha256": "ba7f1963e36cbefe946ae55c585651b502d173f5a6d058395754ce2edec3e633"
+        }
+      ]
+    },
+    "spr_sansb_rightstrike": {
+      "width": 97,
+      "height": 55,
+      "origin": [
+        33,
+        12
+      ],
+      "frames": [
+        {
+          "url": "../../daily-assets/animations/spr_sansb_rightstrike/0.png",
+          "bytes": 499,
+          "sha256": "d36bd7c3db3d512705915281506aa90690fb6a08b4387035689789cf71b3518f"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_rightstrike/1.png",
+          "bytes": 500,
+          "sha256": "ac163ce5bfb2bed18956a5fab4584e0f53e9e8321474af31a7978ac12ebc0ccf"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_rightstrike/2.png",
+          "bytes": 499,
+          "sha256": "987ebf7aed4ad1f346a214b05b257d5584b4acef90fabfdf773a88b115b0884f"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_rightstrike/3.png",
+          "bytes": 529,
+          "sha256": "6ccabe817aa34bc670359372d56cf2a9de61cb2ea79e034f2d3527ea0560e02a"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_rightstrike/4.png",
+          "bytes": 496,
+          "sha256": "4144ced4fd75607621c552323039a8c38a9ef4d8c5b1574dda1c53a8d1d1bb71"
+        },
+        {
+          "url": "../../daily-assets/animations/spr_sansb_rightstrike/5.png",
+          "bytes": 496,
+          "sha256": "4144ced4fd75607621c552323039a8c38a9ef4d8c5b1574dda1c53a8d1d1bb71"
+        }
+      ]
+    },
+    "spr_sansb_legs": {
+      "width": 44,
+      "height": 23,
+      "origin": [
+        21,
+        11
+      ],
+      "frames": [
+        {
+          "url": "../../daily-assets/animations/spr_sansb_legs/0.png",
+          "bytes": 252,
+          "sha256": "c852e9b834290a26263c92fba8e47bfe60ca8a02c53f6315aea99c838e8d4ccf"
+        }
+      ]
+    },
+    "spr_sansb_legs_sit": {
+      "width": 52,
+      "height": 17,
+      "origin": [
+        26,
+        8
+      ],
+      "frames": [
+        {
+          "url": "../../daily-assets/animations/spr_sansb_legs_sit/0.png",
+          "bytes": 248,
+          "sha256": "8bf84b1a3cde167e1130942db0db88fef02c28053a64d3be79699db65a00864c"
+        }
+      ]
+    }
+  },
+  "groups": {
+    "opening": {
+      "face": 4,
+      "torso": 0,
+      "sweat": 0
+    },
+    "threat": {
+      "face": 5,
+      "torso": 0,
+      "sweat": 0
+    },
+    "afterOpening": {
+      "face": 0,
+      "torso": 0,
+      "sweat": 0
+    },
+    "spare": {
+      "face": 4,
+      "torso": 0,
+      "sweat": 2
+    },
+    "final": {
+      "face": 9,
+      "torso": 0,
+      "sweat": 3
+    }
+  },
+  "gestures": {
+    "HandRight": {
+      "sprite": "spr_sansb_rightstrike",
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "anchor": [
+        33,
+        48
+      ],
+      "head": [
+        [
+          33.0,
+          6
+        ],
+        [
+          31.0,
+          6
+        ],
+        [
+          29.0,
+          6
+        ],
+        [
+          38.0,
+          6
+        ],
+        [
+          35.0,
+          6
+        ],
+        [
+          35.0,
+          6
+        ]
+      ]
+    },
+    "HandLeft": {
+      "sprite": "spr_sansb_rightstrike",
+      "frames": [
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "anchor": [
+        33,
+        48
+      ],
+      "head": [
+        [
+          33.0,
+          6
+        ],
+        [
+          35.0,
+          6
+        ],
+        [
+          38.0,
+          6
+        ],
+        [
+          29.0,
+          6
+        ],
+        [
+          31.0,
+          6
+        ],
+        [
+          33.0,
+          6
+        ]
+      ]
+    },
+    "HandDown": {
+      "sprite": "spr_sansb_handdown",
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "anchor": [
+        30,
+        70
+      ],
+      "head": [
+        [
+          30,
+          28.0
+        ],
+        [
+          30,
+          28.0
+        ],
+        [
+          30,
+          31.0
+        ],
+        [
+          30,
+          33.0
+        ],
+        [
+          30,
+          33.0
+        ]
+      ]
+    },
+    "HandUp": {
+      "sprite": "spr_sansb_handup",
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "anchor": [
+        30,
+        70
+      ],
+      "head": [
+        [
+          30,
+          30.0
+        ],
+        [
+          30,
+          33.0
+        ],
+        [
+          30,
+          30.0
+        ],
+        [
+          30,
+          26.0
+        ],
+        [
+          30,
+          28.0
+        ],
+        [
+          30,
+          28.0
+        ]
+      ]
+    }
+  }
+}

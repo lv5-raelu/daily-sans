@@ -1,0 +1,443 @@
+{
+  "source": "https://github.com/Jcw87/c2-sans-fight",
+  "branch": "gh-pages",
+  "revision": "a1732fcddc0487e47ec8d903bcb0049a627e69c7",
+  "archiveUrl": "https://codeload.github.com/Jcw87/c2-sans-fight/zip/a1732fcddc0487e47ec8d903bcb0049a627e69c7",
+  "archiveSha256": "8df0442face7930972e5da396962757f21d84c5c15846ebfd933c6b49293fce3",
+  "reuseStatement": "https://github.com/Jcw87/c2-sans-fight/issues/81",
+  "customization": "reference/simulator-customization.json",
+  "files": {
+    "appmanifest.json": {
+      "bytes": 586,
+      "sha256": "2859346c8086aa6ce3f4d34c2a4920f3eeff5b77dc6a45d481598cb719c63242"
+    },
+    "c2runtime.js": {
+      "bytes": 235014,
+      "sha256": "664b5d93dbd5159976d490663ac64c49c8eb7dc68c9aac92fba940b6fa2a3de9"
+    },
+    "data.js": {
+      "bytes": 236242,
+      "sha256": "9f70e7179fe4260002321a75e5170e96583439bb39988b92ed93da42a0a402c7"
+    },
+    "icon-114.png": {
+      "bytes": 833,
+      "sha256": "a3f34e124a53d099f2d3999391c9c340f4fad4e09548977693279eab90d4ba71"
+    },
+    "icon-128.png": {
+      "bytes": 1634,
+      "sha256": "db2c69c8408c86e02a8458fc66e1c4bd20dfec6ac61eba488ac45e2910fd0148"
+    },
+    "icon-16.png": {
+      "bytes": 711,
+      "sha256": "30519aac65240cc418bc306a29fbe00e464cff295392fa079c5a5ebb4c7c105f"
+    },
+    "icon-256.png": {
+      "bytes": 3935,
+      "sha256": "1f5419dc0fd9e963246d409e99d295476357737d4101eecf801e0828a4cd10f4"
+    },
+    "icon-32.png": {
+      "bytes": 398,
+      "sha256": "b8ebffff2d6e7f8c0d30197ff30c6dd4981aa8731ac716d86b446fe78c43be9a"
+    },
+    "images/battlefont.png": {
+      "bytes": 351,
+      "sha256": "46ec0d1fc711d30cecd6085f8392d7e982b76fcad24e4675c927524ba2b4bc37"
+    },
+    "images/boneh.png": {
+      "bytes": 129,
+      "sha256": "86c08611dc32f89a56d2850597b80097ffb69f31e946e6f7e13b44d0653bb164"
+    },
+    "images/bonestabh.png": {
+      "bytes": 131,
+      "sha256": "842e922cb07732f597be6e019107151e9d176fcdd56199bb7c5efa2787357761"
+    },
+    "images/bonestabv.png": {
+      "bytes": 134,
+      "sha256": "ce9f27566a1461e6c86394ffadac7c3488fc3fc86b69eadfca76a567e280f1ac"
+    },
+    "images/bonestabwarn.png": {
+      "bytes": 113,
+      "sha256": "392a5ee533dcb0a04befafb256acb4b8331d347fa2a038a7dd8924530ac198fb"
+    },
+    "images/bonev.png": {
+      "bytes": 130,
+      "sha256": "6c1b9b4f7659b960dadee85c0fb741cf7137de7d36e98c0d07870338c93c7974"
+    },
+    "images/combatzone.png": {
+      "bytes": 117,
+      "sha256": "96f9d090d737fe2db215d04a0620e3abf599e9eecd165453092a2904e0604e3f"
+    },
+    "images/combatzoneborder.png": {
+      "bytes": 92,
+      "sha256": "bbfcefe415cae37a5b6dcbaa09d083e1b5e2cd5d2ca451ae67535c362a1d8503"
+    },
+    "images/combatzoneclipper.png": {
+      "bytes": 105,
+      "sha256": "68637e5ffd79e04e31e2e874ed3676f68082c61095cc848c9e544d7ede45f6c0"
+    },
+    "images/combatzoneunclipper.png": {
+      "bytes": 92,
+      "sha256": "c790ce6b04892fc1c11337f6920d569ff0b34eeee2879d3ac5782cbc2ea4680e"
+    },
+    "images/damagefont.png": {
+      "bytes": 1594,
+      "sha256": "41a599e7226073c2f298aa7bb8bc76b84ff29fa019dd4864062ab7d3c22835a4"
+    },
+    "images/defaultfont.png": {
+      "bytes": 782,
+      "sha256": "ebe2a719b7468f65696ee87f3044071bbd18b158b86fddb5f7784ad070a402f2"
+    },
+    "images/gasterblast.png": {
+      "bytes": 92,
+      "sha256": "c790ce6b04892fc1c11337f6920d569ff0b34eeee2879d3ac5782cbc2ea4680e"
+    },
+    "images/gasterblaster-sheet0.png": {
+      "bytes": 635,
+      "sha256": "066c3ecf866c429c374b8e4936befdb71202ef1916a2e7adb12f969cd7970d69"
+    },
+    "images/gasterblaster-sheet1.png": {
+      "bytes": 457,
+      "sha256": "1991ea181dbe66ecfc98cbf8dffa8709210c1e401cc6ca9c063630f633d88e79"
+    },
+    "images/gasterblasthit.png": {
+      "bytes": 92,
+      "sha256": "cbc594bf19268f6ae8d991a435c36ec46bb4382863f185f64a8a4eba975f21f5"
+    },
+    "images/heartshard-sheet0.png": {
+      "bytes": 125,
+      "sha256": "3955eb89aef17074d5d15755ca7fe4ce2969097589ea036cd0ed5b0c2dc5d7f7"
+    },
+    "images/heartshard-sheet1.png": {
+      "bytes": 123,
+      "sha256": "184fe2137dee2141e9489ff3c6711382fb25c5544280b31e74f5df1d0de02cb9"
+    },
+    "images/heartshard-sheet2.png": {
+      "bytes": 128,
+      "sha256": "5197d0fd528ab99028a474ffe9fa18356d1ff5aa7cea719bd2a0edaae8f9333d"
+    },
+    "images/hp-sheet0.png": {
+      "bytes": 126,
+      "sha256": "154f233f158225ee45ebf529cabfa7107e8336d0e3cc95dbfa111cadd9b021ae"
+    },
+    "images/hpbackground.png": {
+      "bytes": 92,
+      "sha256": "b78e82e8937a1eca89b1868b6aea22afa46a055e76ae2154205e08cc3992fc51"
+    },
+    "images/hpbar.png": {
+      "bytes": 92,
+      "sha256": "15684db82ff5d7027506e559559fe37e0703a968e2709f6ad50d6aeaca7d1c73"
+    },
+    "images/kr-sheet0.png": {
+      "bytes": 117,
+      "sha256": "38c0d45e590a32ca1a3a0000a9dbceac75579d190cf21016eb6dc5796b3450b7"
+    },
+    "images/krbar.png": {
+      "bytes": 92,
+      "sha256": "0b7e40646ef04df5c28ef63e58364276c36bef17ef3beb8212d4ace749abaaa7"
+    },
+    "images/menubonebottom-sheet0.png": {
+      "bytes": 159,
+      "sha256": "6cdb85e1196eec41deb6065551529357a59a1002e2ea24e2cb7fd4b04e55a243"
+    },
+    "images/menuitem-sheet0.png": {
+      "bytes": 530,
+      "sha256": "031a471d0d719f8e0880b3ea7cd601320d4633fb8cd371593be9f49757a71a37"
+    },
+    "images/platform1.png": {
+      "bytes": 114,
+      "sha256": "4be76dc079ad8ba3ac92c0b9c0742e2810d7cc4e8c147808aee5c4df9c7dfb95"
+    },
+    "images/platform2.png": {
+      "bytes": 114,
+      "sha256": "c83536e34b103693b83e75de7955a4e3f451ef551ad038c3eeca555d4773ce46"
+    },
+    "images/playerheart-sheet0.png": {
+      "bytes": 141,
+      "sha256": "3a22b8bdff456ac50e28e90fc211697c0833bcbe6fbaeb402c84ed4eeb4a3e00"
+    },
+    "images/playerheart-sheet1.png": {
+      "bytes": 132,
+      "sha256": "a30a348650ff5e0bd022fba5fe19fec6e875c8f5cb2acc803e20e5c3eb6fe460"
+    },
+    "images/playerhitbox-sheet0.png": {
+      "bytes": 92,
+      "sha256": "bbfcefe415cae37a5b6dcbaa09d083e1b5e2cd5d2ca451ae67535c362a1d8503"
+    },
+    "images/sansbody-sheet0.png": {
+      "bytes": 1952,
+      "sha256": "c5c8cba7f8c4ea2967488d7210302e5c90e144850f294327723b881ddabc2064"
+    },
+    "images/sansbody-sheet1.png": {
+      "bytes": 446,
+      "sha256": "a39e05f211df99d40bc9fec1399339ea9b9d99bc750eaff9fe9aae8385e0fd1d"
+    },
+    "images/sansfont.png": {
+      "bytes": 1141,
+      "sha256": "0d82d6bd6158d078b47175332f2d93409ba4f1fc2b09e859ce1dad843fa0548a"
+    },
+    "images/sanshead-sheet0.png": {
+      "bytes": 537,
+      "sha256": "c825b7f5551c07e6541b617502dd46ea01cca0b62e9768966cbdf250e9773575"
+    },
+    "images/sanslegs-sheet0.png": {
+      "bytes": 343,
+      "sha256": "164f5d02db9a1d5be879a95571e56578d97e75939b5e7586110fd49590d14552"
+    },
+    "images/sanssweat-sheet0.png": {
+      "bytes": 189,
+      "sha256": "142effcb402653940715bb0233002dd91d8b3270d7c6dcd2c30b4b54de6e640f"
+    },
+    "images/sanstorso-sheet0.png": {
+      "bytes": 521,
+      "sha256": "d782b4a685e0e1e92439ca34112a72dac2b716ca4de646e2ff5dfcdc0ee6f590"
+    },
+    "images/speechbubble-sheet0.png": {
+      "bytes": 612,
+      "sha256": "2f532ce05977fc61def41d87fb048279c105820cb0da0d067a928ef53f28f615"
+    },
+    "images/strike-sheet0.png": {
+      "bytes": 249,
+      "sha256": "11e336667abc2a18eb5ce704a3554599106c34b9402d81c1000100bba0e2fcae"
+    },
+    "images/target-sheet0.png": {
+      "bytes": 1871,
+      "sha256": "3fb405bd87044cbe2e75aad730db9a0324a15d246f911eb83e99d1a5c227b454"
+    },
+    "images/targetchoice-sheet0.png": {
+      "bytes": 388,
+      "sha256": "d4ad98d7191b886a87630e720f60eb285e6ad66eb0817d18decc96267f864b56"
+    },
+    "images/toucha-sheet0.png": {
+      "bytes": 237,
+      "sha256": "ebf1803ad2b6460bad2620bb39af7a49ed43bc6d03e305e6d83033305b97d088"
+    },
+    "images/toucha-sheet1.png": {
+      "bytes": 237,
+      "sha256": "3dc0adf65d6c5df5750221855e5e1af6bac9e3ed16c0b9f581805a164722c0c9"
+    },
+    "images/touchb-sheet0.png": {
+      "bytes": 241,
+      "sha256": "8ded7d3e3892d8de0587eb287bcc34bdd745893b60c59dc332a93434262a2f4c"
+    },
+    "images/touchb-sheet1.png": {
+      "bytes": 241,
+      "sha256": "faf42c3bed5c193e32ddad9208bebcc02fd4fa50158513c3ad61bcfe3a066973"
+    },
+    "images/touchdpad-sheet0.png": {
+      "bytes": 210,
+      "sha256": "d03041c0c9a86e3e5328edab5fd9d829378fc598aa641306e0fb1ac02807d8bb"
+    },
+    "images/uiact-sheet0.png": {
+      "bytes": 339,
+      "sha256": "137a320cd18d02e49926a72b6b1cfb592b7731b945acb881e5455efb4c7b9f80"
+    },
+    "images/uifight-sheet0.png": {
+      "bytes": 394,
+      "sha256": "7f0d746b830b5ac2a374b202279281e0e25b9956698298c6822fee2e913fe153"
+    },
+    "images/uiitem-sheet0.png": {
+      "bytes": 398,
+      "sha256": "04cbd0bfc98db43a05fbbd3dadb1b633b8109922b273bd62930c7678443015fc"
+    },
+    "images/uimercy-sheet0.png": {
+      "bytes": 463,
+      "sha256": "c679ecfbb58f203ac2a6da8a83f912c22dc4ea45bbb13ed0dfbde6bfed5c8e91"
+    },
+    "images/vpad-sheet0.png": {
+      "bytes": 1473,
+      "sha256": "e94831441ca14f8ae50e1dbdb42f8e6ddbc2672ac31c118ea1559e2cc8e85cfa"
+    },
+    "index.html": {
+      "bytes": 5303,
+      "sha256": "faceae53359673329b8dd23a83a2718bd9d1fdda84987eb9fa79562fb750ff88"
+    },
+    "jquery-3.4.1.min.js": {
+      "bytes": 88145,
+      "sha256": "0925e8ad7bd971391a8b1e98be8e87a6971919eb5b60c196485941c3c1df089a"
+    },
+    "loading-logo.png": {
+      "bytes": 398,
+      "sha256": "700c05c3ceecc09463356eab3e836cf80b42f52863c729edb9d55b41ae82366a"
+    },
+    "media/battletext.ogg": {
+      "bytes": 7507,
+      "sha256": "0d759b57f92abe3f5b1624aea01930a5a40aee1070ab8d641966b6df91d8fd5d"
+    },
+    "media/bonestab.ogg": {
+      "bytes": 8912,
+      "sha256": "be42e4a870bc020411c44f1667d1575477e3dc9c6a2c49c4143cd8c742ac27a9"
+    },
+    "media/ding.ogg": {
+      "bytes": 8750,
+      "sha256": "629acc0b227596293cf89cd2e58eb8911c1938f5b4b37208c235a7f1e32198ca"
+    },
+    "media/flash.ogg": {
+      "bytes": 4925,
+      "sha256": "10cc5ea1532d6476b60ed8beb6a7ef29123dc5a1998fdb6cb7b0332f14e6484b"
+    },
+    "media/gasterblast.ogg": {
+      "bytes": 22975,
+      "sha256": "b85c9b97fb7f4bd8c5368acafb8b427dc1c7e139fb8523387e4554a4723aeeae"
+    },
+    "media/gasterblast2.ogg": {
+      "bytes": 27218,
+      "sha256": "f391b3ec470664453927ff0b6c151e0e162d392023656f851f76ed4cbf5a2916"
+    },
+    "media/gasterblaster.ogg": {
+      "bytes": 16703,
+      "sha256": "62b766780c2f201a2e0701bd178bed89ebd07ec9b36643b81848ccebce373fd7"
+    },
+    "media/heartshatter.ogg": {
+      "bytes": 12879,
+      "sha256": "f661fdea823a13e8631d9aa6dee9c0ee5b1c7078809f522de2695e740b0b80bc"
+    },
+    "media/heartsplit.ogg": {
+      "bytes": 5946,
+      "sha256": "07cb2c0862e2858aeff6428b5665165236e3d4457f36a3deb671a71d3d6ab2af"
+    },
+    "media/menucursor.ogg": {
+      "bytes": 4616,
+      "sha256": "2ac14a7ef02699f3d11a2a31525f7d3f0a98fc7711eedad7e17edcfe492a9094"
+    },
+    "media/menuselect.ogg": {
+      "bytes": 7949,
+      "sha256": "060f02922b558548e0431bffa28a13670e537aa9e091d8b654cebe02eea2a0ec"
+    },
+    "media/mus_zz_megalovania.ogg": {
+      "bytes": 1867146,
+      "sha256": "8808cd10b7a7cdbf69494479e5f93a604918cd920f8a0a91aca1aff970ddbb79"
+    },
+    "media/playerdamaged.ogg": {
+      "bytes": 8387,
+      "sha256": "a18842492e0701b9801ee5db6a3cd695cc973f50aec97cc4e7c87283c77ba213"
+    },
+    "media/playerfight.ogg": {
+      "bytes": 10322,
+      "sha256": "f8a710d14e48b0ab1ad3c30d6351a87bedbcdb25de9a221eddaf1a81ad63b524"
+    },
+    "media/playerheal.ogg": {
+      "bytes": 8887,
+      "sha256": "dd28132be6cc66429a68aaa58209d143e247752fb6e6e9d43a9aea37c748fc11"
+    },
+    "media/sansspeak.ogg": {
+      "bytes": 5979,
+      "sha256": "2d17c75d69ac59de33c1ddd57dc3057eb6f6c96c4e3d953479c9c2f24da34142"
+    },
+    "media/slam.ogg": {
+      "bytes": 9796,
+      "sha256": "ed83c72888f4423e4cba6eb29d3053eee9816a5d5575f45d308105a57e3f8ff7"
+    },
+    "media/warning.ogg": {
+      "bytes": 8624,
+      "sha256": "4e469aaa9bc7e2f19aa6a0598dcec85b0b88796ab93617b4b95c83333dd2d920"
+    },
+    "offline.js": {
+      "bytes": 2842,
+      "sha256": "ea5498f6a34b478f76bb020853318976b40fc6ce32e57bd33ea4bffe68fe8f58"
+    },
+    "offlineClient.js": {
+      "bytes": 1381,
+      "sha256": "c23af70fed3a2e281e9f0e459fe45b4a8cfe2f33b42c7e1bd4a4edf44a2284df"
+    },
+    "sans_bluebone.csv": {
+      "bytes": 527,
+      "sha256": "d698d3a883b1409eacf159b4fe3b663dd1f5521998f82f1e74ded150552b46f7"
+    },
+    "sans_bonegap1.csv": {
+      "bytes": 292,
+      "sha256": "90441ab0083ed99eb7e501f2284aae7246aecfc3af7a293cc7da4a911c758306"
+    },
+    "sans_bonegap1fast.csv": {
+      "bytes": 290,
+      "sha256": "148ac1aa095564326aa7a071f838e15f713ff5add1aef72f63c01f9281a4bfc4"
+    },
+    "sans_bonegap2.csv": {
+      "bytes": 1466,
+      "sha256": "4f864f4bd431ecdd712453947338358471715acc15c3e76ca98b1f76a3cc727d"
+    },
+    "sans_boneslideh.csv": {
+      "bytes": 215,
+      "sha256": "5aae574bff05f236e7cdb0f9a2b6dc68cde4f449a0bff772adac290c455f26ce"
+    },
+    "sans_boneslidev.csv": {
+      "bytes": 222,
+      "sha256": "917ffe49cba653e25fa62f5e960fec262bc96eec5097efdee7de4609a5d12d35"
+    },
+    "sans_bonestab1.csv": {
+      "bytes": 573,
+      "sha256": "e8a7bd5ced93fe826cd00baba0518aeb9b3a593e8cf635633e74aa7da9cc95b1"
+    },
+    "sans_bonestab2.csv": {
+      "bytes": 573,
+      "sha256": "b3546228167bda3dc452935117055c946fb3801d238a0eb45051e23b61b28bce"
+    },
+    "sans_bonestab3.csv": {
+      "bytes": 571,
+      "sha256": "8785c4ab0687ce091a329cecca3fb49045fc0a0815eb0508de8188925b7bccc5"
+    },
+    "sans_final.csv": {
+      "bytes": 5641,
+      "sha256": "ff3d6f0c1b2c2f3bdb290109086ec3c9f7c3f6e628809512ac943dc7408c1078"
+    },
+    "sans_intro.csv": {
+      "bytes": 1432,
+      "sha256": "d3e7e6a448e358a6f9eb70621c8dcea84a6b39b9506916fbec2ee5a0bb193620"
+    },
+    "sans_multi1.csv": {
+      "bytes": 2978,
+      "sha256": "ca68aee9438e7f6615566468290cb5888b975ecd51ada1a5a2292ccff9317303"
+    },
+    "sans_multi2.csv": {
+      "bytes": 2395,
+      "sha256": "676f7b979a5abab4986eeadd9bc836995d5ad10e370377fb406889523b117e29"
+    },
+    "sans_multi3.csv": {
+      "bytes": 5115,
+      "sha256": "022250e25db3cd25104fd1c1d78603db8d6edc14beafad60360b65d290a79f92"
+    },
+    "sans_platformblaster.csv": {
+      "bytes": 504,
+      "sha256": "52795a976149141383a148fd69526ffbbab233a978a1b77627f4162a3c8ae197"
+    },
+    "sans_platformblasterfast.csv": {
+      "bytes": 504,
+      "sha256": "0312ef3aec4f170844e72a7cef4cf8b30f41a6c1703489cb8dcf64506f10e35a"
+    },
+    "sans_platforms1.csv": {
+      "bytes": 388,
+      "sha256": "adae77d891d7b97a870c3dded34a07c2f82d67ca3d75326eeb7d64aa6148409f"
+    },
+    "sans_platforms2.csv": {
+      "bytes": 586,
+      "sha256": "964b43f2d03eec8d28493f051e6553120b1f8468f11a2069868c51568e999171"
+    },
+    "sans_platforms3.csv": {
+      "bytes": 549,
+      "sha256": "853d2bcb8fb9f0cb09eac8355fe1cc23d0d8558682e451ade592f5546eec9a7d"
+    },
+    "sans_platforms4.csv": {
+      "bytes": 348,
+      "sha256": "3fb7dfa8347f5a6f493dc56fda62142e0b985d431e91085600aa0918d19a549d"
+    },
+    "sans_platforms4hard.csv": {
+      "bytes": 348,
+      "sha256": "2c23db06eccc8f7eda2341abafb4ebfe9162f3e7ed5bfe026f73f4ea19a42cd2"
+    },
+    "sans_randomblaster1.csv": {
+      "bytes": 810,
+      "sha256": "f880224de616df00f44a583706223eee3378692e1b1554440b3b2de2a1a8627a"
+    },
+    "sans_randomblaster2.csv": {
+      "bytes": 810,
+      "sha256": "431246d750826a061a1bfd1668ab7f2f3e43a3d30c2ed5e51a2c76e253690e90"
+    },
+    "sans_spare.csv": {
+      "bytes": 128,
+      "sha256": "bed1eb8e0b97bcba6478183b58f435f605e3754469eb8d80a24b40afe7ebba8e"
+    },
+    "sw.js": {
+      "bytes": 13848,
+      "sha256": "763c1a959dca7d19564453a1e6b410245ac0accc36d2a1fbc6c97786f30c5dd9"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "daily-sans",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "import:simulator": "python3 scripts/import-simulator.py",
+    "import:undertale": "python3 scripts/import-undertale.py",
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node --import tsx --test tests/*.test.ts && npm run test:importer",
+    "test:importer": "python3 -m unittest discover -s tests -p 'test_*.py'"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.2",
+    "tsx": "4.21.0",
+    "typescript": "5.9.3",
+    "vite": "7.3.6"
+  }
+}

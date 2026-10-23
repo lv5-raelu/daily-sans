@@ -1,0 +1,45 @@
+:root { color-scheme: dark; font-family: 'Courier New', monospace; color: #ddd; background: #000; font-synthesis: none; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+.shell { max-width: 1000px; margin: auto; padding: 24px 20px 20px; }
+header { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; margin-bottom: 14px; color: #888; font-size: 12px; }
+h1 { margin: 0; font-size: 14px; font-weight: normal; color: #bbb; }
+.screen { position: relative; aspect-ratio: 4 / 3; background: #000; }
+iframe { width: 100%; height: 100%; border: 0; display: block; }
+.screen:fullscreen { width: 100vw; height: 100vh; }
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 20px; font-size: 12px; }
+button { font: inherit; background: #000; color: #bbb; border: 1px solid #555; padding: 8px 12px; cursor: pointer; }
+button:hover, button:focus-visible { border-color: #ff0; color: #ff0; outline: none; }
+a { color: #aaa; text-underline-offset: 3px; }
+a:hover, a:focus-visible { color: #ff0; }
+.toolbar a { margin-left: auto; }
+#controls, #status { font-size: 12px; line-height: 1.8; color: #999; }
+#controls { margin: 18px 0 24px; }
+[hidden] { display: none !important; }
+footer { border-top: 1px solid #222; padding-top: 14px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; color: #888; font: 10px/1.8 system-ui, sans-serif; }
+@media (max-width: 640px) { .shell { padding: 16px 8px; } header { padding: 0 4px; } .toolbar a { margin-left: 0; } }
+#remaining { margin-left: auto; color: #bbb; }
+.screen { width: min(100%, calc((100svh - 220px) * 4 / 3)); min-width: min(100%, 320px); margin-inline: auto; }
+.screen iframe { position: absolute; inset: 0; }
+.pause-screen { position: absolute; inset: 0; z-index: 2; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 22px; background: #000d; text-align: center; }
+.pause-screen h2 { margin: 0; color: #fff; font-size: clamp(24px, 4vw, 36px); font-weight: normal; letter-spacing: 2px; }
+.pause-screen p { margin: 0; color: #999; font-size: 12px; }
+.pause-screen button { border-color: #cc8200; color: #ff0; padding: 12px 20px; font-size: 14px; }
+.welcome { height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px; text-align: center; padding: 16px; }
+#headline { color: #fff; font-size: clamp(16px, 2.4vw, 24px); line-height: 1.5; margin: 0; }
+#explanation { color: #999; font-size: 12px; line-height: 1.8; max-width: 400px; margin: 0; }
+#start { color: #ff0; border: 2px solid #cc8200; padding: 12px 20px; font-size: 14px; }
+#start:hover, #start:focus-visible { border-color: #ff0; }
+#start:disabled, button:disabled { opacity: .45; cursor: default; }
+#practice-end { font-size: 13px; line-height: 1.8; }
+#controls { margin-bottom: 10px; }
+#status { min-height: 2em; }
+.day-note { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; font: 11px/1.8 'Courier New', monospace; color: #888; margin: 14px 0 24px; }
+.screen:fullscreen { width: 100vw; height: 100vh; max-width: none; aspect-ratio: auto; }
+dialog { background: #080808; border: 2px solid #ddd; color: #eee; width: min(620px, calc(100vw - 32px)); padding: 24px; margin: auto; font-family: inherit; }
+dialog::backdrop { background: #000b; }
+dialog h2 { font-size: 16px; font-weight: normal; margin: 0 0 20px; }
+dialog p { font-size: 13px; line-height: 1.8; }
+.dialog-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; font-size: 12px; }
+#toast { position: fixed; bottom: 28px; left: 50%; transform: translateX(-50%); max-width: calc(100vw - 32px); width: max-content; padding: 12px 18px; border: 1px solid #666; background: #111; color: #eee; font-size: 12px; line-height: 1.6; z-index: 10; box-shadow: 0 4px 20px #0008; }
+@media (max-width: 640px) { header { gap: 12px; } #remaining { font-size: 11px; } .toolbar { gap: 6px; } .toolbar button { padding: 8px; } .screen { width: 100%; } #status, #controls, .day-note { padding-inline: 4px; } }

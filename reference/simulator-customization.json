@@ -1,0 +1,26 @@
+{
+  "revision": "a1732fcddc0487e47ec8d903bcb0049a627e69c7",
+  "changes": [
+    "Normal mode starts directly in BattleScreen",
+    "MainMenu layout and event sheet removed",
+    "Other mode branches and variables removed",
+    "Internal returns to MainMenu removed; the daily app owns retries",
+    "Opening flash and silent threat ordered from the native game event",
+    "Original small speech bubble added as DailyThreat animation",
+    "Original complete gesture sequences, head offsets and sitting alignment restored",
+    "Native bobbing replaces upstream approximations; blue eye alternates at 15 fps",
+    "One speech bubble persists across a conversation; loading labels are blank",
+    "Guest projectile update runs on the native paused simulation clock",
+    "Offline cache and upstream HTML launchers removed"
+  ],
+  "removedFiles": [
+    "index.html",
+    "player.html",
+    "sw.js",
+    "offline.js",
+    "offlineClient.js",
+    "appmanifest.json"
+  ],
+  "dataSha256": "4a85444cc5589d978b71daf32c08bb2ba29f29c3122bad03c13e33d0c5721244",
+  "introSha256": "346bc2d51f553b003ee135f90115f728a3d27f8d83dc01f0029a859e377c4794"
+}

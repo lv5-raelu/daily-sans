@@ -1,0 +1,38 @@
+{
+  "sourceArchiveSha256": "91a8acf1f40bd7c45d0bdb978de55187e7fb2cd76a1e2cda41c078dd44d3565e",
+  "sprite": {
+    "name": "spr_firebullet",
+    "width": 16,
+    "height": 16,
+    "origin": [
+      0,
+      0
+    ],
+    "bbox": [
+      6,
+      8,
+      9,
+      11
+    ],
+    "frames": [
+      {
+        "url": "../../daily-assets/toriel/fire-0.png",
+        "sha256": "7ae567e8eaba05ee22f8b3cbdf60e74cd81644bdcedd8eb2acff82a1abaa3052"
+      },
+      {
+        "url": "../../daily-assets/toriel/fire-1.png",
+        "sha256": "614814674021555f2014c313c0d55b6d609d60bc61c7db8b90f1ac051de2b40d"
+      }
+    ]
+  },
+  "code": {
+    "gml_Object_obj_torielboss_Step_0": "0656ac471003ba7b1804d3c5632ab6b12a41c96ba7ecf3aea30f25cf0c2a996f",
+    "gml_Object_obj_1sidegen_Alarm_0": "d23a91f0a79fc3167f14b8ff5ef5d57a4e8ab5e40ed7dc20abc2ee8a35369598",
+    "gml_Object_blt_firehelix1_Create_0": "60f284e81738f3a7d2f744f838126f41164334d73984d0df3be41607bb777a73",
+    "gml_Object_blt_firehelix1_Step_0": "453076cda61436ec9909ff99dd4f05ec2a607d38171bb0199687c5bcd3a88fbe",
+    "gml_Object_blt_firehelix1_Collision_762": "5e61b6cfdcc143feddfc015b18cccbb0de525a203ab28d8271f9118ac5943489",
+    "gml_Object_blt_parent_Collision_744": "5693e7417b148938f87235d90620219c20807c0159a13bc15a11f9e97d14086f",
+    "gml_Script_scr_monstersetup": "0a54ffb0eb382b30b649a74e0f0d43aae56e65818ee956b2d1cb7cb66c2e29be",
+    "gml_Script_SCR_GAMESTART": "a3c9196231f116fe9067c8c400ab480e27fd2c01f7ff98ea90babe523c2f1e90"
+  }
+}

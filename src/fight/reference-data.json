@@ -1,0 +1,1205 @@
+{
+  "sprites": [
+    {
+      "id": "t2",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/vpad-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 32,
+              "h": 32,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/uiact-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 110,
+              "h": 42,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        },
+        {
+          "name": "Highlight",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/uiact-sheet0.png",
+              "x": 1,
+              "y": 45,
+              "w": 110,
+              "h": 42,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/uifight-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 110,
+              "h": 42,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        },
+        {
+          "name": "Highlight",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/uifight-sheet0.png",
+              "x": 1,
+              "y": 45,
+              "w": 110,
+              "h": 42,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/uiitem-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 110,
+              "h": 42,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        },
+        {
+          "name": "Highlight",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/uiitem-sheet0.png",
+              "x": 1,
+              "y": 45,
+              "w": 110,
+              "h": 42,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/uimercy-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 110,
+              "h": 42,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        },
+        {
+          "name": "Highlight",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/uimercy-sheet0.png",
+              "x": 1,
+              "y": 45,
+              "w": 110,
+              "h": 42,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/target-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 548,
+              "h": 117,
+              "ox": 0.5,
+              "oy": 0.504273533821106
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/hp-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 23,
+              "h": 10,
+              "ox": 0,
+              "oy": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/kr-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 23,
+              "h": 10,
+              "ox": 1,
+              "oy": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t20",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 30,
+          "loop": true,
+          "frames": [
+            {
+              "url": "images/targetchoice-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 14,
+              "h": 128,
+              "ox": 0.5,
+              "oy": 0.5
+            },
+            {
+              "url": "images/targetchoice-sheet0.png",
+              "x": 17,
+              "y": 1,
+              "w": 14,
+              "h": 128,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t21",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 10,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/strike-sheet0.png",
+              "x": 57,
+              "y": 1,
+              "w": 4,
+              "h": 6,
+              "ox": -1,
+              "oy": 5.666666507720947
+            },
+            {
+              "url": "images/strike-sheet0.png",
+              "x": 51,
+              "y": 1,
+              "w": 4,
+              "h": 22,
+              "ox": -0.5,
+              "oy": 1.363636374473572
+            },
+            {
+              "url": "images/strike-sheet0.png",
+              "x": 27,
+              "y": 1,
+              "w": 6,
+              "h": 42,
+              "ox": 0,
+              "oy": 0.4285714328289032
+            },
+            {
+              "url": "images/strike-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 8,
+              "h": 64,
+              "ox": 0,
+              "oy": 0.15625
+            },
+            {
+              "url": "images/strike-sheet0.png",
+              "x": 11,
+              "y": 1,
+              "w": 14,
+              "h": 32,
+              "ox": 0,
+              "oy": -0.75
+            },
+            {
+              "url": "images/strike-sheet0.png",
+              "x": 35,
+              "y": 1,
+              "w": 14,
+              "h": 12,
+              "ox": -0.1428571492433548,
+              "oy": -4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t23",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanshead-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 30,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "LookLeft",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanshead-sheet0.png",
+              "x": 35,
+              "y": 1,
+              "w": 32,
+              "h": 30,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "Wink",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanshead-sheet0.png",
+              "x": 69,
+              "y": 1,
+              "w": 32,
+              "h": 30,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "ClosedEyes",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanshead-sheet0.png",
+              "x": 1,
+              "y": 33,
+              "w": 32,
+              "h": 30,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "NoEyes",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanshead-sheet0.png",
+              "x": 35,
+              "y": 33,
+              "w": 32,
+              "h": 30,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "BlueEye",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanshead-sheet0.png",
+              "x": 69,
+              "y": 33,
+              "w": 32,
+              "h": 30,
+              "ox": 0.5,
+              "oy": 1
+            },
+            {
+              "url": "images/sanshead-sheet0.png",
+              "x": 1,
+              "y": 65,
+              "w": 32,
+              "h": 30,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "Tired1",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanshead-sheet0.png",
+              "x": 35,
+              "y": 65,
+              "w": 32,
+              "h": 30,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "Tired2",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanshead-sheet0.png",
+              "x": 69,
+              "y": 65,
+              "w": 32,
+              "h": 30,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t24",
+      "animations": [
+        {
+          "name": "HandDown",
+          "fps": 15,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 99,
+              "y": 101,
+              "w": 64,
+              "h": 70,
+              "ox": 0.46875,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 165,
+              "y": 101,
+              "w": 64,
+              "h": 70,
+              "ox": 0.46875,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 1,
+              "y": 151,
+              "w": 64,
+              "h": 70,
+              "ox": 0.46875,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 67,
+              "y": 173,
+              "w": 64,
+              "h": 70,
+              "ox": 0.46875,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "HandUp",
+          "fps": 15,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 133,
+              "y": 173,
+              "w": 64,
+              "h": 70,
+              "ox": 0.46875,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 67,
+              "y": 173,
+              "w": 64,
+              "h": 70,
+              "ox": 0.46875,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet1.png",
+              "x": 0,
+              "y": 0,
+              "w": 64,
+              "h": 70,
+              "ox": 0.46875,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 165,
+              "y": 101,
+              "w": 64,
+              "h": 70,
+              "ox": 0.46875,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 99,
+              "y": 101,
+              "w": 64,
+              "h": 70,
+              "ox": 0.46875,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "HandRight",
+          "fps": 15,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 99,
+              "y": 1,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 1,
+              "y": 51,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 99,
+              "y": 51,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 1,
+              "y": 101,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "HandLeft",
+          "fps": 15,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 1,
+              "y": 101,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 99,
+              "y": 51,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 1,
+              "y": 51,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 99,
+              "y": 1,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            },
+            {
+              "url": "images/sansbody-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 96,
+              "h": 48,
+              "ox": 0.34375,
+              "oy": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t25",
+      "animations": [
+        {
+          "name": "Standing",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanslegs-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 44,
+              "h": 23,
+              "ox": 0.4772727191448212,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "Sitting",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanslegs-sheet0.png",
+              "x": 1,
+              "y": 26,
+              "w": 52,
+              "h": 17,
+              "ox": 0.4807692170143127,
+              "oy": 0.8823529481887817
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t26",
+      "animations": [
+        {
+          "name": "Sweat1",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanssweat-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 32,
+              "h": 9,
+              "ox": 0.5,
+              "oy": 0
+            }
+          ]
+        },
+        {
+          "name": "Sweat2",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanssweat-sheet0.png",
+              "x": 1,
+              "y": 12,
+              "w": 32,
+              "h": 9,
+              "ox": 0.5,
+              "oy": 0
+            }
+          ]
+        },
+        {
+          "name": "Sweat3",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanssweat-sheet0.png",
+              "x": 1,
+              "y": 23,
+              "w": 32,
+              "h": 9,
+              "ox": 0.5,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t27",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanstorso-sheet0.png",
+              "x": 1,
+              "y": 27,
+              "w": 54,
+              "h": 25,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        },
+        {
+          "name": "Shrug",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/sanstorso-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 72,
+              "h": 24,
+              "ox": 0.5,
+              "oy": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t28",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/speechbubble-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 237,
+              "h": 104,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        },
+        {
+          "name": "NoEffects",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/speechbubble-sheet0.png",
+              "x": 1,
+              "y": 107,
+              "w": 237,
+              "h": 104,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t32",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/gasterblaster-sheet0.png",
+              "x": 1,
+              "y": 1,
+              "w": 57,
+              "h": 44,
+              "ox": 0.4912280738353729,
+              "oy": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Fire",
+          "fps": 30,
+          "loop": true,
+          "frames": [
+            {
+              "url": "images/gasterblaster-sheet0.png",
+              "x": 60,
+              "y": 1,
+              "w": 57,
+              "h": 44,
+              "ox": 0.5087719559669495,
+              "oy": 0.5
+            },
+            {
+              "url": "images/gasterblaster-sheet0.png",
+              "x": 1,
+              "y": 47,
+              "w": 57,
+              "h": 44,
+              "ox": 0.5087719559669495,
+              "oy": 0.5
+            },
+            {
+              "url": "images/gasterblaster-sheet0.png",
+              "x": 60,
+              "y": 47,
+              "w": 57,
+              "h": 44,
+              "ox": 0.5087719559669495,
+              "oy": 0.5
+            },
+            {
+              "url": "images/gasterblaster-sheet1.png",
+              "x": 1,
+              "y": 1,
+              "w": 57,
+              "h": 44,
+              "ox": 0.5087719559669495,
+              "oy": 0.5
+            },
+            {
+              "url": "images/gasterblaster-sheet1.png",
+              "x": 60,
+              "y": 1,
+              "w": 57,
+              "h": 44,
+              "ox": 0.5087719559669495,
+              "oy": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t38",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/menubonebottom-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 14,
+              "h": 44,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t39",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/menubonebottom-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 14,
+              "h": 44,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t51",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/toucha-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 48,
+              "h": 48,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Pressed",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/toucha-sheet1.png",
+              "x": 0,
+              "y": 0,
+              "w": 48,
+              "h": 48,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t52",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/touchb-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 48,
+              "h": 48,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Pressed",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/touchb-sheet1.png",
+              "x": 0,
+              "y": 0,
+              "w": 48,
+              "h": 48,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t53",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/touchdpad-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 48,
+              "h": 48,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t54",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/playerheart-sheet1.png",
+              "x": 0,
+              "y": 0,
+              "w": 16,
+              "h": 16,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        },
+        {
+          "name": "Split",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/playerheart-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 16,
+              "h": 20,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t56",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/menuitem-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 16,
+              "h": 16,
+              "ox": 0,
+              "oy": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t59",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 15,
+          "loop": true,
+          "frames": [
+            {
+              "url": "images/heartshard-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 16,
+              "h": 16,
+              "ox": 0.5,
+              "oy": 0.5
+            },
+            {
+              "url": "images/heartshard-sheet1.png",
+              "x": 0,
+              "y": 0,
+              "w": 16,
+              "h": 16,
+              "ox": 0.5,
+              "oy": 0.5
+            },
+            {
+              "url": "images/heartshard-sheet2.png",
+              "x": 0,
+              "y": 0,
+              "w": 16,
+              "h": 16,
+              "ox": 0.5,
+              "oy": 0.5
+            },
+            {
+              "url": "images/heartshard-sheet1.png",
+              "x": 0,
+              "y": 0,
+              "w": 16,
+              "h": 16,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t64",
+      "animations": [
+        {
+          "name": "Default",
+          "fps": 5,
+          "loop": false,
+          "frames": [
+            {
+              "url": "images/playerhitbox-sheet0.png",
+              "x": 0,
+              "y": 0,
+              "w": 4,
+              "h": 4,
+              "ox": 0.5,
+              "oy": 0.5
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "attacks": {
+    "intro": "0,SansAnimation,,,,,,,,\r\n0,SansHead,ClosedEyes,,,,,,,\r\n0,SansText,ready?,,,,,,,\r\n0,BlackScreen,1,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0.06666,BlackScreen,0,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0,CombatZoneResizeInstant,239,226,404,391,,,,\r\n0,HeartTeleport,320,304,,,,,,\r\n0,HeartMode,0,,,,,,,\r\n0,SansBody,HandDown,,,,,,,\r\n0,SansHead,BlueEye,,,,,,,\r\n0,Sound,GasterBlaster,1.4,,,,,,\r\n0.26666,SansSlam,1,,,,,,,\r\n0.5,SansBody,HandUp,,,,,,,\r\n0,SansHead,NoEyes,,,,,,,\r\n0,BoneStab,1,54,0.16666,1,,,,\r\n0.7,HeartMode,0,,,,,,,\r\n0,SansBody,HandRight,,,,,,,\r\n0,Sound,Ding,,,,,,,\r\n0.4,Sound,GasterBlaster,1.4,,,,,,\r\n0.4,SineBones,20,-24,360,25,,,,\r\n1.1,SansAnimation,,,,,,,,\r\n0,GasterBlaster,1,0,0,189,246,0,0.333,0.26666\r\n0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666\r\n0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666\r\n0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666\r\n0.9,GasterBlaster,1,0,0,189,176,45,0.333,0.26666\r\n0,GasterBlaster,1,640,0,449,176,135,0.333,0.26666\r\n0,GasterBlaster,1,640,480,449,436,225,0.333,0.26666\r\n0,GasterBlaster,1,0,480,189,436,315,0.333,0.26666\r\n0.9,GasterBlaster,1,0,0,189,246,0,0.333,0.26666\r\n0,GasterBlaster,1,0,0,259,166,90,0.333,0.26666\r\n0,GasterBlaster,1,640,480,449,366,180,0.333,0.26666\r\n0,GasterBlaster,1,640,480,379,446,270,0.333,0.26666\r\n0.7,GasterBlaster,2,0,240,139,306,0,0.666,0.5\r\n0,GasterBlaster,2,640,240,499,306,180,0.666,0.5\r\n3,SansHead,Default,,,,,,,\r\n0,SansText,here we go.,,,,,,,\r\n0,EndAttack,,,,,,,,\r\n",
+    "bluebone": "0,CombatZoneResize,133,251,508,391,TLResume,\r\n0,HeartTeleport,320,376,,,,\r\n0,HeartMode,1,,,,,\r\n0,TLPause,,,,,,\r\n0.2,BoneV,503,286,100,2,300,1\r\n0.23333,BoneV,503,366,20,2,300,0\r\n0.5,BoneV,503,286,100,2,300,1\r\n0.23333,BoneV,503,366,20,2,300,0\r\n0.5,BoneV,503,286,100,2,300,1\r\n0.23333,BoneV,503,366,20,2,300,0\r\n0.93333,BoneV,128,366,20,0,300,0\r\n0.4,BoneV,128,286,100,0,300,1\r\n0.33333,BoneV,128,366,20,0,300,0\r\n0.4,BoneV,128,286,100,0,300,1\r\n0.33333,BoneV,128,366,20,0,300,0\r\n0.4,BoneV,128,286,100,0,300,1\r\n1.66666,EndAttack,,,,,,\r\n",
+    "bonegap1": "0,CombatZoneResize,133,251,508,391,TLResume,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,HeartMode,1,,,,,,\r\n0,TLPause,,,,,,,\r\n0.2,BoneVRepeat,128,257,95,0,180,8,120\r\n0,BoneVRepeat,128,366,20,0,180,8,120\r\n0,BoneVRepeat,503,257,95,2,180,8,120\r\n0,BoneVRepeat,503,366,20,2,180,8,120\r\n6.4,EndAttack,,,,,,,\r\n",
+    "bonegap1fast": "0,CombatZoneResize,133,251,508,391,TLResume,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,HeartMode,1,,,,,,\r\n0,TLPause,,,,,,,\r\n0.4,BoneVRepeat,128,257,95,0,210,8,133\r\n0,BoneVRepeat,128,366,20,0,210,8,133\r\n0,BoneVRepeat,503,257,95,2,210,8,133\r\n0,BoneVRepeat,503,366,20,2,210,8,133\r\n6,EndAttack,,,,,,,\r\n",
+    "bonegap2": "0,CombatZoneResize,133,251,508,391,TLResume\r\n0,HeartTeleport,320,376,,,\r\n0,HeartMode,1,,,,\r\n0,TLPause,,,,,\r\n0,SET,Total,0,,,\r\n0,:Begin,,,,,\r\n0,JMPNL,End,$Total,150,,\r\n0,RND,Choice,4,,,\r\n0,MUL,Jump,$Choice,3,,\r\n0,ADD,Jump,$Jump,1,,\r\n0,JMPREL,$Jump,,,,\r\n0,SET,HeightB,20,,,\r\n0,ADD,Total,$Total,9,,\r\n0,JMPREL,9,,,,\r\n0,SET,HeightB,30,,,\r\n0,ADD,Total,$Total,11,,\r\n0,JMPREL,6,,,,\r\n0,SET,HeightB,40,,,\r\n0,ADD,Total,$Total,19,,\r\n0,JMPREL,3,,,,\r\n0,SET,HeightB,60,,,\r\n0,ADD,Total,$Total,25,,\r\n0,RND,RndSpeed,3,,,\r\n0,SUB,RndSpeed,$RndSpeed,1,,\r\n0,MUL,RndSpeed,$RndSpeed,2,,\r\n0,JMPNE,SkipZeroSpeed,$HeightB,40,,\r\n0,SET,RndSpeed,0,,,\r\n0,:SkipZeroSpeed,,,,,\r\n0,SUB,HeightT,111,$HeightB,,\r\n0,SUB,YB,386,$HeightB,,\r\n0,ADD,X,$Total,32,,\r\n0,JMPNE,BoneL,$HeightB,60,,\r\n0,SET,RndSpeed,-1,,,\r\n0,:BoneL,,,,,\r\n0,ADD,SpeedL,8,$RndSpeed,,\r\n0,MUL,XL,$X,$SpeedL,,\r\n0,SUB,XL,320,$XL,,\r\n0,MUL,SpeedL,$SpeedL,30,,\r\n0,JMPE,BoneR,$HeightB,60,,\r\n0,MUL,RndSpeed,$RndSpeed,-1,,\r\n0,:BoneR,,,,,\r\n0,ADD,SpeedR,8,$RndSpeed,,\r\n0,MUL,XR,$X,$SpeedR,,\r\n0,ADD,XR,320,$XR,,\r\n0,MUL,SpeedR,$SpeedR,30,,\r\n0,BoneV,$XL,257,$HeightT,0,$SpeedL\r\n0,BoneV,$XL,$YB,$HeightB,0,$SpeedL\r\n0,BoneV,$XR,257,$HeightT,2,$SpeedR\r\n0,BoneV,$XR,$YB,$HeightB,2,$SpeedR\r\n0,MUL,Jump,$Choice,2,,\r\n0,ADD,Jump,$Jump,1,,\r\n0,JMPREL,$Jump,,,,\r\n0,ADD,Total,$Total,15,,\r\n0,JMPREL,6,,,,\r\n0,ADD,Total,$Total,17,,\r\n0,JMPREL,4,,,,\r\n0,ADD,Total,$Total,19,,\r\n0,JMPREL,2,,,,\r\n0,ADD,Total,$Total,25,,\r\n0,JMPABS,Begin,,,,\r\n0,:End,,,,,\r\n7,EndAttack,,,,,\r\n",
+    "boneslideh": "0,CombatZoneResize,133,251,508,391,TLResume,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,HeartMode,1,,,,,,\r\n0,TLPause,,,,,,,\r\n0.5,BoneVRepeat,128,366,20,0,120,8,76\r\n0,BoneVRepeat,513,257,107,2,120,8,76\r\n7.2,EndAttack,,,,,,,\r\n",
+    "boneslidev": "0,CombatZoneResize,241,226,406,391,TLResume,,\r\n0,HeartTeleport,320,304,,,,,\r\n0,HeartMode,0,,,,,,\r\n0,TLPause,,,,,,,\r\n0.2,BoneHRepeat,130,-10,200,1,300,7,183\r\n0,BoneHRepeat,330,650,200,3,300,7,183\r\n5.76666,EndAttack,,,,,,,\r\n",
+    "bonestab1": "0,CombatZoneResize,241,226,406,391,TLResume\r\n0,HeartTeleport,320,304,,,\r\n0,HeartMode,0,,,,\r\n0,TLPause,,,,,\r\n0,SET,Loop,9,,,\r\n0,JMPZ,26,$Loop,,,\r\n0,SUB,Loop,$Loop,1,,\r\n0,RND,Direction,4,,,\r\n0,ADD,Jump,$Direction,1,,\r\n0,JMPREL,$Jump,,,,\r\n0,JMPREL,4,,,,\r\n0,JMPREL,5,,,,\r\n0,JMPREL,6,,,,\r\n0,JMPREL,7,,,,\r\n0,SansBody,HandRight,,,,\r\n0,JMPREL,7,,,,\r\n0,SansBody,HandDown,,,,\r\n0,JMPREL,5,,,,\r\n0,SansBody,HandLeft,,,,\r\n0,JMPREL,3,,,,\r\n0,SansBody,HandUp,,,,\r\n0,JMPREL,1,,,,\r\n0.26666,SansSlam,$Direction,,,,\r\n0.2,BoneStab,$Direction,25,0.4,0.33333,\r\n0.6,JMPABS,6,,,,\r\n0,EndAttack,,,,,\r\n",
+    "bonestab2": "0,CombatZoneResize,241,226,406,391,TLResume\r\n0,HeartTeleport,320,304,,,\r\n0,HeartMode,0,,,,\r\n0,TLPause,,,,,\r\n0,SET,Loop,9,,,\r\n0,JMPZ,26,$Loop,,,\r\n0,SUB,Loop,$Loop,1,,\r\n0,RND,Direction,4,,,\r\n0,ADD,Jump,$Direction,1,,\r\n0,JMPREL,$Jump,,,,\r\n0,JMPREL,4,,,,\r\n0,JMPREL,5,,,,\r\n0,JMPREL,6,,,,\r\n0,JMPREL,7,,,,\r\n0,SansBody,HandRight,,,,\r\n0,JMPREL,7,,,,\r\n0,SansBody,HandDown,,,,\r\n0,JMPREL,5,,,,\r\n0,SansBody,HandLeft,,,,\r\n0,JMPREL,3,,,,\r\n0,SansBody,HandUp,,,,\r\n0,JMPREL,1,,,,\r\n0.26666,SansSlam,$Direction,,,,\r\n0.2,BoneStab,$Direction,25,0.3,0.2,\r\n0.43333,JMPABS,6,,,,\r\n0,EndAttack,,,,,\r\n",
+    "bonestab3": "0,CombatZoneResize,241,226,406,391,TLResume\r\n0,HeartTeleport,320,304,,,\r\n0,HeartMode,0,,,,\r\n0,TLPause,,,,,\r\n0,SET,Loop,9,,,\r\n0,JMPZ,26,$Loop,,,\r\n0,SUB,Loop,$Loop,1,,\r\n0,RND,Direction,4,,,\r\n0,ADD,Jump,$Direction,1,,\r\n0,JMPREL,$Jump,,,,\r\n0,JMPREL,4,,,,\r\n0,JMPREL,5,,,,\r\n0,JMPREL,6,,,,\r\n0,JMPREL,7,,,,\r\n0,SansBody,HandRight,,,,\r\n0,JMPREL,7,,,,\r\n0,SansBody,HandDown,,,,\r\n0,JMPREL,5,,,,\r\n0,SansBody,HandLeft,,,,\r\n0,JMPREL,3,,,,\r\n0,SansBody,HandUp,,,,\r\n0,JMPREL,1,,,,\r\n0.26666,SansSlam,$Direction,,,,\r\n0.2,BoneStab,$Direction,29,0.4,0,\r\n0.23333,JMPABS,6,,,,\r\n0,EndAttack,,,,,\r\n",
+    "final": "0,CombatZoneResize,241,226,406,391,TLResume,,,\r\n0,HeartTeleport,320,304,,,,,,\r\n0,HeartMode,0,,,,,,,\r\n0,TLPause,,,,,,,,\r\n0,SansSweat,0,,,,,,,\r\n0,SET,I,0,,,,,,\r\n0.3,RND,Direction,4,,,,,,\r\n0,ADD,Jump,$Direction,1,,,,,\r\n0,JMPREL,$Jump,,,,,,,\r\n0,JMPREL,4,,,,,,,\r\n0,JMPREL,5,,,,,,,\r\n0,JMPREL,6,,,,,,,\r\n0,JMPREL,7,,,,,,,\r\n0,SansBody,HandRight,,,,,,,\r\n0,JMPREL,7,,,,,,,\r\n0,SansBody,HandDown,,,,,,,\r\n0,JMPREL,5,,,,,,,\r\n0,SansBody,HandLeft,,,,,,,\r\n0,JMPREL,3,,,,,,,\r\n0,SansBody,HandUp,,,,,,,\r\n0,JMPREL,1,,,,,,,\r\n0.26666,SansSlam,$Direction,,,,,,,\r\n0.2,BoneStab,$Direction,29,0.4,0,,,,\r\n0,ADD,I,$I,1,,,,,\r\n0,JMPL,7,$I,4,,,,,\r\n0,BoneHRepeat,130,-10,200,1,300,3,183,\r\n0,BoneHRepeat,330,650,200,3,300,3,183,\r\n0.5,HeartMode,0,,,,,,,\r\n2,SansBody,HandLeft,,,,,,,\r\n0.2,SansSlam,2,,,,,,,\r\n0.3,SansBody,HandRight,,,,,,,\r\n0.2,HeartMaxFallSpeed,450,,,,,,,\r\n0,SansSlam,0,,,,,,,\r\n0,CombatZoneResizeInstant,241,226,449,391,,,,\r\n0,CombatZoneSpeed,900,,,,,,,\r\n0,CombatZoneResize,241,226,650,391,,,,\r\n0.33333,HeartMaxFallSpeed,-300,,,,,,,\r\n0,SansAnimation,Idle,,,,,,,\r\n0,SansRepeat,,,,,,,,\r\n0,CombatZoneResize,-10,226,650,391,,,,\r\n0.3,CombatZoneSpeed,30,,,,,,,\r\n0,CombatZoneResize,-10,264,650,369,,,,\r\n0.9,GetHeartPos,HeartX,HeartY,,,,,,\r\n0,HeartTeleport,40,$HeartY,,,,,,\r\n0,HeartMaxFallSpeed,0,,,,,,,\r\n0,SansSlam,0,,,,,,,\r\n0,DIV,Deg,180,$pi,,,,,\r\n0,SET,I,0,,,,,,\r\n0,DIV,Ang,$I,2,,,,,\r\n0,MUL,Ang,$Ang,$Deg,,,,,\r\n0,SIN,Sine,$Ang,,,,,,\r\n0,MUL,Sine,$Sine,25,,,,,\r\n0,FLOOR,Sine,$Sine,,,,,,\r\n0,MUL,X,$I,60,,,,,\r\n0,ADD,X,$X,634,,,,,\r\n0,SET,Y,270,,,,,,\r\n0,ADD,H,30,$Sine,,,,,\r\n0,BoneV,$X,$Y,$H,2,900,,,\r\n0,ADD,Y,$Y,$H,,,,,\r\n0,ADD,Y,$Y,34,,,,,\r\n0,SUB,H,364,$Y,,,,,\r\n0,BoneV,$X,$Y,$H,2,900,,,\r\n0,ADD,I,$I,1,,,,,\r\n0,JMPL,49,$I,44,,,,,\r\n0,ADD,X,$X,360,,,,,\r\n0,BoneVRepeat,$X,270,50,2,900,3,15,\r\n0,ADD,X,$X,330,,,,,\r\n0,BoneVRepeat,$X,314,50,2,900,3,15,\r\n0,ADD,X,$X,300,,,,,\r\n0,BoneVRepeat,$X,270,50,2,900,3,15,\r\n0,ADD,X,$X,300,,,,,\r\n0,BoneVRepeat,$X,314,50,2,900,3,15,\r\n0,ADD,X,$X,270,,,,,\r\n0,BoneVRepeat,$X,270,50,2,900,3,15,\r\n0,ADD,X,$X,270,,,,,\r\n0,BoneVRepeat,$X,314,50,2,900,3,15,\r\n0,ADD,X,$X,240,,,,,\r\n0,BoneVRepeat,$X,270,50,2,900,3,15,\r\n0,ADD,X,$X,330,,,,,\r\n0,BoneVRepeat,$X,314,50,2,900,3,15,\r\n0,ADD,X,$X,270,,,,,\r\n0,BoneVRepeat,$X,270,50,2,900,3,15,\r\n0,ADD,X,$X,390,,,,,\r\n0,SET,I,0,,,,,,\r\n0,MUL,X2,$I,30,,,,,\r\n0,ADD,X2,$X2,$X,,,,,\r\n0,ADD,H,10,$I,,,,,\r\n0,BoneV,$X2,270,$H,2,900,,,\r\n0,SUB,Y,365,$H,,,,,\r\n0,BoneV,$X2,$Y,$H,2,900,,,\r\n0,ADD,I,$I,1,,,,,\r\n0,JMPL,85,$I,24,,,,,\r\n0,SET,I,0,,,,,,\r\n8,HeartMaxFallSpeed,330,,,,,,,\r\n0,SansSlam,0,,,,,,,\r\n0,CombatZoneSpeed,540,,,,,,,\r\n0,CombatZoneResize,-10,264,410,369,,,,\r\n0.9,SansEndRepeat,,,,,,,,\r\n0,SansHead,Default,,,,,,,\r\n0,SansTorso,Default,,,,,,,\r\n0,SansBody,HandLeft,,,,,,,\r\n0.2,BoneStab,0,50,0.4,1,,,,\r\n0.9,BlackScreen,1,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0.4,BlackScreen,0,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0,CombatZoneResizeInstant,239,226,404,391,,,,\r\n0,HeartTeleport,320,376,,,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,SansAnimation,HeadBob,,,,,,,\r\n0.03333,BoneStab,1,48,0.6,1,,,,\r\n0,BoneStab,3,48,0.6,1,,,,\r\n0.9,BlackScreen,1,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0.1,BlackScreen,0,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0,HeartTeleport,262,240,,,,,,\r\n0,SansSlam,3,,,,,,,\r\n0.03333,BoneStab,2,48,0.6,1,,,,\r\n0,BoneStab,3,48,0.6,1,,,,\r\n0.9,BlackScreen,1,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0.1,BlackScreen,0,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0,HeartTeleport,391,376,,,,,,\r\n0,SansSlam,0,,,,,,,\r\n0.03333,BoneStab,0,48,0.6,1,,,,\r\n0,BoneStab,1,48,0.6,1,,,,\r\n0.9,BlackScreen,1,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0.1,BlackScreen,0,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0,HeartTeleport,262,240,,,,,,\r\n0,SansSlam,2,,,,,,,\r\n0,SansX,320,,,,,,,\r\n0.03333,BoneStab,2,48,0.6,1,,,,\r\n0.7,HeartMode,0,,,,,,,\r\n0,SET,gt,0,,,,,,\r\n0,SET,gin,1,,,,,,\r\n0,MUL,Ang,$gt,-10,,,,,\r\n0,COS,X,$Ang,,,,,,\r\n0,SIN,Y,$Ang,,,,,,\r\n0,MUL,EndX,$X,150,,,,,\r\n0,MUL,EndY,$Y,150,,,,,\r\n0,MUL,X,$EndX,3,,,,,\r\n0,MUL,Y,$EndY,3,,,,,\r\n0,ADD,X,$X,320,,,,,\r\n0,ADD,Y,$Y,306,,,,,\r\n0,ADD,EndX,$EndX,320,,,,,\r\n0,ADD,EndY,$EndY,306,,,,,\r\n0,ADD,Ang,$Ang,180,,,,,\r\n0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.5,0\r\n0,ADD,gt,$gt,$gin,,,,,\r\n0,JMPNL,156,$gin,1.7,,,,,\r\n0,ADD,gin,$gin,0.015,,,,,\r\n0.06666,JMPL,140,$gt,190,,,,,\r\n1,SansHead,BlueEye,,,,,,,\r\n0,HeartMaxFallSpeed,750,,,,,,,\r\n0,SansBody,HandRight,,,,,,,\r\n0,SansSlamDamage,1,,,,,,,\r\n0,SET,I,0,,,,,,\r\n0,SET,Direction,0,,,,,,\r\n0,SET,LastDir,2,,,,,,\r\n0,SET,Wait1,0.13333,,,,,,\r\n0,SET,Wait2,0.13333,,,,,,\r\n0,JMPNE,168,$Direction,$LastDir,,,,,\r\n0,SUB,Direction,$Direction,2,,,,,\r\n0,JMPNL,170,$Direction,0,,,,,\r\n0,ADD,Direction,$Direction,4,,,,,\r\n0,JMPL,172,$Direction,4,,,,,\r\n0,SUB,Direction,$Direction,4,,,,,\r\n0,MUL,Jump,$Direction,2,,,,,\r\n0,ADD,Jump,$Jump,1,,,,,\r\n0,JMPREL,$Jump,,,,,,,\r\n0,SansBody,HandRight,,,,,,,\r\n0,JMPREL,6,,,,,,,\r\n0,SansBody,HandDown,,,,,,,\r\n0,JMPREL,4,,,,,,,\r\n0,SansBody,HandLeft,,,,,,,\r\n0,JMPREL,2,,,,,,,\r\n0,SansBody,HandUp,,,,,,,\r\n$Wait1,SansSlam,$Direction,,,,,,,\r\n$Wait2,SET,LastDir,$Direction,,,,,,\r\n0,MOD,Odd,$I,2,,,,,\r\n0,JMPZ,187,$Odd,,,,,,\r\n0,RND,Direction,4,,,,,,\r\n0,JMPNE,191,$I,21,,,,,\r\n0,HeartMaxFallSpeed,480,,,,,,,\r\n0,SET,Wait1,0.2,,,,,,\r\n0,SET,Wait2,0.2,,,,,,\r\n0,JMPNE,194,$I,25,,,,,\r\n0,SansHead,Default,,,,,,,\r\n0,SansSweat,1,,,,,,,\r\n0,JMPNE,200,$I,33,,,,,\r\n0,SansHead,Tired1,,,,,,,\r\n0,SansSweat,2,,,,,,,\r\n0,HeartMaxFallSpeed,330,,,,,,,\r\n0,SET,Wait1,0.5,,,,,,\r\n0,SET,Wait2,1.1,,,,,,\r\n0,JMPNE,203,$I,33,,,,,\r\n0,JMPE,186,$Direction,1,,,,,\r\n0,JMPE,186,$Direction,$LastDir,,,,,\r\n0,JMPNE,206,$I,35,,,,,\r\n0,HeartMaxFallSpeed,240,,,,,,,\r\n0,SET,Direction,3,,,,,,\r\n0,JMPNE,210,$I,36,,,,,\r\n0,SansHead,Tired2,,,,,,,\r\n0,SansSweat,3,,,,,,,\r\n0,HeartMaxFallSpeed,60,,,,,,,\r\n0,ADD,I,$I,1,,,,,\r\n0,JMPL,166,$I,38,,,,,\r\n1.5,SansAnimation,Tired,,,,,,,\r\n2.4,EndAttack,,,,,,,,\r\n",
+    "multi1": "0,CombatZoneResize,133,251,508,391,TLResume,,\r\n0,HeartTeleport,320,304,,,,,\r\n0,HeartMode,1,,,,,,\r\n0,TLPause,,,,,,,\r\n0,SET,Loop,5,,,,,\r\n0,:RndAttack,,,,,,,\r\n0,BlackScreen,1,,,,,,\r\n0,Sound,Flash,,,,,,\r\n0.4,BlackScreen,0,,,,,,\r\n0,Sound,Flash,,,,,,\r\n0,JMPZ,End,$Loop,,,,,\r\n0,SUB,Loop,$Loop,1,,,,\r\n0,RND,Jump,5,,,,,\r\n0,ADD,Jump,$Jump,1,,,,\r\n0,JMPREL,$Jump,,,,,,\r\n0,JMPABS,Attack0,,,,,,\r\n0,JMPABS,Attack1,,,,,,\r\n0,JMPABS,Attack2,,,,,,\r\n0,JMPABS,Attack3,,,,,,\r\n0,JMPABS,Attack4,,,,,,\r\n0,:Attack0,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,\r\n0,HeartMode,1,,,,,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,BoneVRepeat,128,341,45,0,240,4,16\r\n0,BoneV,64,286,100,0,240,,\r\n0,BoneVRepeat,512,341,45,2,240,4,16\r\n0,BoneV,576,286,100,2,240,,\r\n0.9,JMPABS,RndAttack,,,,,,\r\n0,:Attack1,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,\r\n0,HeartMode,1,,,,,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,BoneV,128,286,100,0,240,1,\r\n0,BoneV,56,366,20,0,240,0,\r\n0,BoneV,24,286,100,0,240,0,\r\n0,BoneV,512,286,100,2,240,1,\r\n0,BoneV,584,366,20,2,240,0,\r\n0,BoneV,616,286,100,2,240,0,\r\n1.1,JMPABS,RndAttack,,,,,,\r\n0,:Attack2,,,,,,,\r\n0,CombatZoneResizeInstant,171,276,476,391,,,\r\n0,HeartMode,1,,,,,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,SET,Total,0,,,,,\r\n0,SET,Loop2,0,,,,,\r\n0,:Attack2Begin,,,,,,,\r\n0,RND,Choice,3,,,,,\r\n0,ADD,HeightB,$Choice,2,,,,\r\n0,MUL,HeightB,$HeightB,10,,,,\r\n0,SET,RndSpeed,0,,,,,\r\n0,JMPZ,SkipRndSpeed,$Loop2,,,,,\r\n0,RND,RndSpeed,3,,,,,\r\n0,SUB,RndSpeed,$RndSpeed,1,,,,\r\n0,MUL,RndSpeed,$RndSpeed,2,,,,\r\n0,:SkipRndSpeed,,,,,,,\r\n0,SUB,HeightT,86,$HeightB,,,,\r\n0,SUB,YB,386,$HeightB,,,,\r\n0,MUL,X,$Loop2,22,,,,\r\n0,ADD,X,$X,25,,,,\r\n0,ADD,X,$X,$Total,,,,\r\n0,ADD,SpeedL,6,$RndSpeed,,,,\r\n0,MUL,XL,$X,$SpeedL,,,,\r\n0,SUB,XL,320,$XL,,,,\r\n0,MUL,SpeedL,$SpeedL,30,,,,\r\n0,MUL,RndSpeed,$RndSpeed,-1,,,,\r\n0,ADD,SpeedR,6,$RndSpeed,,,,\r\n0,MUL,XR,$X,$SpeedR,,,,\r\n0,ADD,XR,320,$XR,,,,\r\n0,MUL,SpeedR,$SpeedR,30,,,,\r\n0,BoneV,$XL,282,$HeightT,0,$SpeedL,,\r\n0,BoneV,$XL,$YB,$HeightB,0,$SpeedL,,\r\n0,BoneV,$XR,282,$HeightT,2,$SpeedR,,\r\n0,BoneV,$XR,$YB,$HeightB,2,$SpeedR,,\r\n0,MUL,TotalInc,$Choice,5,,,,\r\n0,ADD,Total,$Total,$TotalInc,,,,\r\n0,ADD,Loop2,$Loop2,1,,,,\r\n0,JMPL,Attack2Begin,$Loop2,4,,,,\r\n1.9,JMPABS,RndAttack,,,,,,\r\n0,:Attack3,,,,,,,\r\n0,CombatZoneResizeInstant,171,276,476,391,,,\r\n0,HeartMode,1,,,,,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,BoneVRepeat,200,282,70,0,150,3,125\r\n0,BoneVRepeat,200,371,15,0,150,3,125\r\n0,BoneVRepeat,440,282,70,2,150,3,125\r\n0,BoneVRepeat,440,371,15,2,150,3,125\r\n1.7,JMPABS,RndAttack,,,,,,\r\n0,:Attack4,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,\r\n0,HeartMode,1,,,,,,\r\n0,RND,Side,2,,,,,\r\n0,JMPZ,Attack4Other,$Side,,,,,\r\n0,HeartTeleport,506,376,,,,,\r\n0,BoneVRepeat,200,331,55,0,360,11,24\r\n0,BoneVRepeat,-64,371,15,0,360,10,24\r\n1.5,JMPABS,RndAttack,,,,,,\r\n0,:Attack4Other,,,,,,,\r\n0,HeartTeleport,149,376,,,,,\r\n0,BoneVRepeat,440,331,55,2,360,11,24\r\n0,BoneVRepeat,704,371,15,2,360,10,24\r\n1.5,JMPABS,RndAttack,,,,,,\r\n0,:End,,,,,,,\r\n0,CombatZoneResizeInstant,33,251,608,391,,,\r\n0,EndAttack,,,,,,,\r\n",
+    "multi2": "0,HeartTeleport,320,304,,,,,,\r\n0,SET,Loop,5,,,,,,\r\n0,:RndAttack,,,,,,,,\r\n0,BlackScreen,1,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0.4,BlackScreen,0,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0,JMPZ,End,$Loop,,,,,,\r\n0,SUB,Loop,$Loop,1,,,,,\r\n0,RND,Jump,4,,,,,,\r\n0,ADD,Jump,$Jump,1,,,,,\r\n0,JMPREL,$Jump,,,,,,,\r\n0,JMPABS,Attack5,,,,,,,\r\n0,JMPABS,Attack6,,,,,,,\r\n0,JMPABS,Attack7,,,,,,,\r\n0,JMPABS,Attack8,,,,,,,\r\n0,:Attack5,,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,HeartTeleport,330,304,,,,,,\r\n0,Platform,309,314,41,0,0,,,\r\n0,Platform,309,354,41,0,0,,,\r\n0,BoneVRepeat,121,364,30,2,0,25,16,\r\n0,RND,Side,2,,,,,,\r\n0,JMPZ,Attack5Other,$Side,,,,,,\r\n0,BoneV,521,280,35,2,240,,,\r\n0,BoneV,1,319,65,0,240,,,\r\n1.5,JMPABS,RndAttack,,,,,,,\r\n0,:Attack5Other,,,,,,,,\r\n0,BoneV,119,280,35,0,240,,,\r\n0,BoneV,639,319,65,2,240,,,\r\n1.5,JMPABS,RndAttack,,,,,,,\r\n0,:Attack6,,,,,,,,\r\n0,CombatZoneResizeInstant,241,226,406,391,,,,\r\n0,HeartMode,0,,,,,,,\r\n0,HeartTeleport,320,304,,,,,,\r\n0,RND,Rot,2,,,,,,\r\n0,JMPZ,Attack6Other,$Rot,,,,,,\r\n0,GasterBlaster,1,191,306,191,306,0,0.6,0.26666\r\n0,GasterBlaster,1,321,166,321,166,90,0.6,0.26666\r\n0,GasterBlaster,1,449,306,449,306,180,0.6,0.26666\r\n0,GasterBlaster,1,321,446,321,446,270,0.6,0.26666\r\n1.2,JMPABS,RndAttack,,,,,,,\r\n0,:Attack6Other,,,,,,,,\r\n0,GasterBlaster,1,191,176,191,176,45,0.66666,0.26666\r\n0,GasterBlaster,1,451,176,451,176,135,0.66666,0.26666\r\n0,GasterBlaster,1,451,436,451,436,225,0.66666,0.26666\r\n0,GasterBlaster,1,191,436,191,436,315,0.66666,0.26666\r\n1.2,JMPABS,RndAttack,,,,,,,\r\n0,:Attack7,,,,,,,,\r\n0,CombatZoneResizeInstant,179,226,404,391,,,,\r\n0,HeartMode,0,,,,,,,\r\n0,RND,Side,2,,,,,,\r\n0,JMPZ,Attack7Other,$Side,,,,,,\r\n0,HeartTeleport,382,304,,,,,,\r\n0,SineBones,16,-20,300,55,,,,\r\n1.7,JMPABS,RndAttack,,,,,,,\r\n0,:Attack7Other,,,,,,,,\r\n0,HeartTeleport,267,304,,,,,,\r\n0,SineBones,16,20,300,55,,,,\r\n1.7,JMPABS,RndAttack,,,,,,,\r\n0,:Attack8,,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,RND,Side,2,,,,,,\r\n0,JMPZ,Attack8Other,$Side,,,,,,\r\n0,HeartTeleport,489,376,,,,,,\r\n0,BoneVRepeat,345,364,20,0,120,6,76,\r\n0,BoneVRepeat,297,280,82,2,120,6,76,\r\n1.9,JMPABS,RndAttack,,,,,,,\r\n0,:Attack8Other,,,,,,,,\r\n0,HeartTeleport,168,376,,,,,,\r\n0,BoneVRepeat,297,364,20,2,120,6,76,\r\n0,BoneVRepeat,345,280,82,0,120,6,76,\r\n1.9,JMPABS,RndAttack,,,,,,,\r\n0,:End,,,,,,,,\r\n0,CombatZoneResizeInstant,33,251,608,391,,,,\r\n0,EndAttack,,,,,,,,\r\n",
+    "multi3": "0,CombatZoneResize,239,226,404,391,TLResume,,,\r\n0,HeartTeleport,320,304,,,,,,\r\n0,HeartMode,0,,,,,,,\r\n0,TLPause,,,,,,,,\r\n0,SET,Loop,5,,,,,,\r\n0,:RndAttack,,,,,,,,\r\n0,BlackScreen,1,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0.13333,BlackScreen,0,,,,,,,\r\n0,Sound,Flash,,,,,,,\r\n0,JMPZ,End,$Loop,,,,,,\r\n0,SUB,Loop,$Loop,1,,,,,\r\n0,RND,Jump,9,,,,,,\r\n0,ADD,Jump,$Jump,1,,,,,\r\n0,JMPREL,$Jump,,,,,,,\r\n0,JMPABS,Attack0,,,,,,,\r\n0,JMPABS,Attack1,,,,,,,\r\n0,JMPABS,Attack2,,,,,,,\r\n0,JMPABS,Attack3,,,,,,,\r\n0,JMPABS,Attack4,,,,,,,\r\n0,JMPABS,Attack5,,,,,,,\r\n0,JMPABS,Attack6,,,,,,,\r\n0,JMPABS,Attack7,,,,,,,\r\n0,JMPABS,Attack8,,,,,,,\r\n0,:Attack0,,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,HeartTeleport,320,376,,,,,,\r\n0,BoneVRepeat,128,341,45,0,240,4,16,\r\n0,BoneV,64,286,100,0,240,,,\r\n0,BoneVRepeat,512,341,45,2,240,4,16,\r\n0,BoneV,576,286,100,2,240,,,\r\n0.9,JMPABS,RndAttack,,,,,,,\r\n0,:Attack1,,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,HeartTeleport,320,376,,,,,,\r\n0,BoneV,128,286,100,0,240,1,,\r\n0,BoneV,56,366,20,0,240,0,,\r\n0,BoneV,24,286,100,0,240,0,,\r\n0,BoneV,512,286,100,2,240,1,,\r\n0,BoneV,584,366,20,2,240,0,,\r\n0,BoneV,616,286,100,2,240,0,,\r\n1.1,JMPABS,RndAttack,,,,,,,\r\n0,:Attack2,,,,,,,,\r\n0,CombatZoneResizeInstant,171,276,476,391,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,HeartTeleport,320,376,,,,,,\r\n0,SET,Total,0,,,,,,\r\n0,SET,Loop2,0,,,,,,\r\n0,:Attack2Begin,,,,,,,,\r\n0,RND,Choice,3,,,,,,\r\n0,ADD,HeightB,$Choice,2,,,,,\r\n0,MUL,HeightB,$HeightB,10,,,,,\r\n0,SET,RndSpeed,0,,,,,,\r\n0,JMPZ,SkipRndSpeed,$Loop2,,,,,,\r\n0,RND,RndSpeed,3,,,,,,\r\n0,SUB,RndSpeed,$RndSpeed,1,,,,,\r\n0,MUL,RndSpeed,$RndSpeed,2,,,,,\r\n0,:SkipRndSpeed,,,,,,,,\r\n0,SUB,HeightT,86,$HeightB,,,,,\r\n0,SUB,YB,386,$HeightB,,,,,\r\n0,MUL,X,$Loop2,22,,,,,\r\n0,ADD,X,$X,25,,,,,\r\n0,ADD,X,$X,$Total,,,,,\r\n0,ADD,SpeedL,6,$RndSpeed,,,,,\r\n0,MUL,XL,$X,$SpeedL,,,,,\r\n0,SUB,XL,320,$XL,,,,,\r\n0,MUL,SpeedL,$SpeedL,30,,,,,\r\n0,MUL,RndSpeed,$RndSpeed,-1,,,,,\r\n0,ADD,SpeedR,6,$RndSpeed,,,,,\r\n0,MUL,XR,$X,$SpeedR,,,,,\r\n0,ADD,XR,320,$XR,,,,,\r\n0,MUL,SpeedR,$SpeedR,30,,,,,\r\n0,BoneV,$XL,282,$HeightT,0,$SpeedL,,,\r\n0,BoneV,$XL,$YB,$HeightB,0,$SpeedL,,,\r\n0,BoneV,$XR,282,$HeightT,2,$SpeedR,,,\r\n0,BoneV,$XR,$YB,$HeightB,2,$SpeedR,,,\r\n0,MUL,TotalInc,$Choice,5,,,,,\r\n0,ADD,Total,$Total,$TotalInc,,,,,\r\n0,ADD,Loop2,$Loop2,1,,,,,\r\n0,JMPL,Attack2Begin,$Loop2,4,,,,,\r\n1.9,JMPABS,RndAttack,,,,,,,\r\n0,:Attack3,,,,,,,,\r\n0,CombatZoneResizeInstant,171,276,476,391,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,HeartTeleport,320,376,,,,,,\r\n0,BoneVRepeat,200,282,70,0,150,3,125,\r\n0,BoneVRepeat,200,371,15,0,150,3,125,\r\n0,BoneVRepeat,440,282,70,2,150,3,125,\r\n0,BoneVRepeat,440,371,15,2,150,3,125,\r\n1.7,JMPABS,RndAttack,,,,,,,\r\n0,:Attack4,,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,RND,Side,2,,,,,,\r\n0,JMPZ,Attack4Other,$Side,,,,,,\r\n0,HeartTeleport,506,376,,,,,,\r\n0,BoneVRepeat,200,331,55,0,360,11,24,\r\n0,BoneVRepeat,-64,371,15,0,360,10,24,\r\n1.5,JMPABS,RndAttack,,,,,,,\r\n0,:Attack4Other,,,,,,,,\r\n0,HeartTeleport,149,376,,,,,,\r\n0,BoneVRepeat,440,331,55,2,360,11,24,\r\n0,BoneVRepeat,704,371,15,2,360,10,24,\r\n1.5,JMPABS,RndAttack,,,,,,,\r\n0,:Attack5,,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,HeartTeleport,330,304,,,,,,\r\n0,Platform,309,314,41,0,0,,,\r\n0,Platform,309,354,41,0,0,,,\r\n0,BoneVRepeat,121,364,30,2,0,25,16,\r\n0,RND,Side,2,,,,,,\r\n0,JMPZ,Attack5Other,$Side,,,,,,\r\n0,BoneV,521,280,35,2,240,,,\r\n0,BoneV,1,319,65,0,240,,,\r\n1.5,JMPABS,RndAttack,,,,,,,\r\n0,:Attack5Other,,,,,,,,\r\n0,BoneV,119,280,35,0,240,,,\r\n0,BoneV,639,319,65,2,240,,,\r\n1.5,JMPABS,RndAttack,,,,,,,\r\n0,:Attack6,,,,,,,,\r\n0,CombatZoneResizeInstant,241,226,406,391,,,,\r\n0,HeartMode,0,,,,,,,\r\n0,HeartTeleport,320,304,,,,,,\r\n0,RND,Rot,2,,,,,,\r\n0,JMPZ,Attack6Other,$Rot,,,,,,\r\n0,GasterBlaster,1,191,306,191,306,0,0.6,0.26666\r\n0,GasterBlaster,1,321,166,321,166,90,0.6,0.26666\r\n0,GasterBlaster,1,449,306,449,306,180,0.6,0.26666\r\n0,GasterBlaster,1,321,446,321,446,270,0.6,0.26666\r\n1.2,JMPABS,RndAttack,,,,,,,\r\n0,:Attack6Other,,,,,,,,\r\n0,GasterBlaster,1,191,176,191,176,45,0.66666,0.26666\r\n0,GasterBlaster,1,451,176,451,176,135,0.66666,0.26666\r\n0,GasterBlaster,1,451,436,451,436,225,0.66666,0.26666\r\n0,GasterBlaster,1,191,436,191,436,315,0.66666,0.26666\r\n1.2,JMPABS,RndAttack,,,,,,,\r\n0,:Attack7,,,,,,,,\r\n0,CombatZoneResizeInstant,179,226,404,391,,,,\r\n0,HeartMode,0,,,,,,,\r\n0,RND,Side,2,,,,,,\r\n0,JMPZ,Attack7Other,$Side,,,,,,\r\n0,HeartTeleport,382,304,,,,,,\r\n0,SineBones,16,-20,300,55,,,,\r\n1.7,JMPABS,RndAttack,,,,,,,\r\n0,:Attack7Other,,,,,,,,\r\n0,HeartTeleport,267,304,,,,,,\r\n0,SineBones,16,20,300,55,,,,\r\n1.7,JMPABS,RndAttack,,,,,,,\r\n0,:Attack8,,,,,,,,\r\n0,CombatZoneResizeInstant,121,276,526,391,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,RND,Side,2,,,,,,\r\n0,JMPZ,Attack8Other,$Side,,,,,,\r\n0,HeartTeleport,489,376,,,,,,\r\n0,BoneVRepeat,345,364,20,0,120,6,76,\r\n0,BoneVRepeat,297,280,82,2,120,6,76,\r\n1.9,JMPABS,RndAttack,,,,,,,\r\n0,:Attack8Other,,,,,,,,\r\n0,HeartTeleport,168,376,,,,,,\r\n0,BoneVRepeat,297,364,20,2,120,6,76,\r\n0,BoneVRepeat,345,280,82,0,120,6,76,\r\n1.9,JMPABS,RndAttack,,,,,,,\r\n0,:End,,,,,,,,\r\n0,CombatZoneResizeInstant,33,251,608,391,,,,\r\n0,EndAttack,,,,,,,,\r\n",
+    "platformblaster": "0,CombatZoneResize,133,251,508,391,TLResume,,,\r\n0,HeartTeleport,320,376,,,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,TLPause,,,,,,,,\r\n0,PlatformRepeat,552,346,51,2,120,8,140,\r\n0,PlatformRepeat,-20,306,51,0,120,8,160,\r\n0,SET,Loop,5,,,,,,\r\n0,SUB,Loop,$Loop,1,,,,,\r\n0,RND,Y,3,,,,,,\r\n0,MUL,Y,$Y,40,,,,,\r\n0,ADD,Y,$Y,285,,,,,\r\n0,GasterBlaster,0,0,0,73,$Y,0,0.56666,0.1\r\n0.9,RND,Y,3,,,,,,\r\n0,MUL,Y,$Y,40,,,,,\r\n0,ADD,Y,$Y,285,,,,,\r\n0,GasterBlaster,0,640,0,563,$Y,180,0.56666,0.1\r\n0.9,JMPNZ,8,$Loop,,,,,,\r\n0,EndAttack,,,,,,,,\r\n",
+    "platformblasterfast": "0,CombatZoneResize,133,251,508,391,TLResume,,,\r\n0,HeartTeleport,320,376,,,,,,\r\n0,HeartMode,1,,,,,,,\r\n0,TLPause,,,,,,,,\r\n0,PlatformRepeat,552,346,51,2,120,8,140,\r\n0,PlatformRepeat,-20,306,51,0,120,8,160,\r\n0,SET,Loop,6,,,,,,\r\n0,SUB,Loop,$Loop,1,,,,,\r\n0,RND,Y,3,,,,,,\r\n0,MUL,Y,$Y,40,,,,,\r\n0,ADD,Y,$Y,285,,,,,\r\n0,GasterBlaster,0,0,0,73,$Y,0,0.56666,0.1\r\n0.7,RND,Y,3,,,,,,\r\n0,MUL,Y,$Y,40,,,,,\r\n0,ADD,Y,$Y,285,,,,,\r\n0,GasterBlaster,0,640,0,563,$Y,180,0.56666,0.1\r\n0.7,JMPNZ,8,$Loop,,,,,,\r\n0,EndAttack,,,,,,,,\r\n",
+    "platforms1": "0,CombatZoneResize,133,251,508,391,TLResume,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,HeartMode,1,,,,,,\r\n0,TLPause,,,,,,,\r\n0,Platform,15,346,61,0,120,,\r\n0.4,BoneVRepeat,133,356,40,0,120,41,15\r\n1.2,Platform,-61,346,61,0,150,,\r\n1.7,Platform,-61,346,61,0,180,,\r\n1,BoneV,133,257,45,0,210,,\r\n0,BoneV,119,257,45,0,210,,\r\n0,BoneV,105,257,45,0,210,,\r\n2.3,BoneV,133,257,95,0,270,,\r\n1.7,EndAttack,,,,,,,\r\n",
+    "platforms2": "0,CombatZoneResize,133,251,508,391,TLResume,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,HeartMode,1,,,,,,\r\n0,TLPause,,,,,,,\r\n0,Platform,640,346,51,2,150,,\r\n0.4,BoneVRepeat,508,356,40,2,120,58,15\r\n0.4,Platform,640,296,51,2,150,,\r\n0.5,Platform,640,346,51,2,150,,\r\n0.4,BoneV,508,316,70,2,150,,\r\n0.4,Platform,640,296,31,2,60,,\r\n0.6,Platform,640,326,51,2,150,,\r\n0.7,Platform,640,336,51,2,150,,\r\n0.3,BoneV,508,257,45,2,150,,\r\n0.4,Platform,640,316,51,2,150,,\r\n0.3,BoneV,508,257,55,2,150,,\r\n0.7,BoneV,508,257,35,2,150,,\r\n1.5,BoneV,133,257,95,0,90,,\r\n0.7,BoneV,508,276,110,2,240,,\r\n2.5,EndAttack,,,,,,,\r\n",
+    "platforms3": "0,CombatZoneResize,133,251,508,391,TLResume,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,HeartMode,1,,,,,,\r\n0,TLPause,,,,,,,\r\n0,PlatformRepeat,513,346,121,2,120,5,220\r\n0,PlatformRepeat,-71,306,161,0,120,4,280\r\n0,SET,Loop,16,,,,,\r\n0,JMPZ,22,$Loop,,,,,\r\n0,SUB,Loop,$Loop,1,,,,\r\n0,RND,Jump,3,,,,,\r\n0,ADD,Jump,$Jump,1,,,,\r\n0,JMPREL,$Jump,,,,,,\r\n0,JMPREL,3,,,,,,\r\n0,JMPREL,4,,,,,,\r\n0,JMPREL,5,,,,,,\r\n0,BoneV,517,257,45,2,120,,\r\n0.5,JMPABS,8,,,,,,\r\n0,BoneV,125,306,40,0,120,,\r\n0.5,JMPABS,8,,,,,,\r\n0,BoneV,517,349,35,2,120,,\r\n0.5,JMPABS,8,,,,,,\r\n0,EndAttack,,,,,,,\r\n",
+    "platforms4": "0,CombatZoneResize,113,231,548,391,TLResume,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,HeartMode,1,,,,,,\r\n0,TLPause,,,,,,,\r\n0,Platform,151,336,41,0,90,1,\r\n0,HeartTeleport,175,327,,,,,\r\n0,BoneVRepeat,528,366,40,0,60,60,15\r\n0,BoneVRepeat,283,267,40,3,90,11,85\r\n0,BoneVRepeat,363,331,40,1,120,13,95\r\n0,BoneVRepeat,443,248,40,3,90,11,85\r\n7.3,EndAttack,,,,,,,\r\n",
+    "platforms4hard": "0,CombatZoneResize,113,231,548,391,TLResume,,\r\n0,HeartTeleport,320,376,,,,,\r\n0,HeartMode,1,,,,,,\r\n0,TLPause,,,,,,,\r\n0,Platform,151,336,31,0,90,1,\r\n0,HeartTeleport,175,327,,,,,\r\n0,BoneVRepeat,528,366,40,0,60,60,15\r\n0,BoneVRepeat,283,268,40,3,90,12,65\r\n0,BoneVRepeat,363,325,40,1,120,11,90\r\n0,BoneVRepeat,443,268,40,3,90,12,65\r\n7.3,EndAttack,,,,,,,\r\n",
+    "randomblaster1": "0,CombatZoneResize,121,186,526,391,TLResume,,,\r\n0,HeartTeleport,320,304,,,,,,\r\n0,HeartMode,0,,,,,,,\r\n0,TLPause,,,,,,,,\r\n0.5,SET,Loop,15,,,,,,\r\n0,SUB,Loop,$Loop,1,,,,,\r\n0,RND,Ang,360,,,,,,\r\n0,COS,X,$Ang,,,,,,\r\n0,SIN,Y,$Ang,,,,,,\r\n0,MUL,EndX,$X,200,,,,,\r\n0,MUL,EndY,$Y,200,,,,,\r\n0,MUL,X,$X,400,,,,,\r\n0,MUL,Y,$Y,300,,,,,\r\n0,GetHeartPos,HeartX,HeartY,,,,,,\r\n0,ADD,EndX,$EndX,$HeartX,,,,,\r\n0,ADD,EndY,$EndY,$HeartY,,,,,\r\n0,ADD,X,$X,$HeartX,,,,,\r\n0,ADD,Y,$Y,$HeartY,,,,,\r\n0,JMPNL,21,$EndX,50,,,,,\r\n0,SET,EndX,50,,,,,,\r\n0,JMPNG,23,$EndX,590,,,,,\r\n0,SET,EndX,590,,,,,,\r\n0,JMPNL,25,$EndY,40,,,,,\r\n0,SET,EndY,40,,,,,,\r\n0,JMPNG,27,$EndY,440,,,,,\r\n0,SET,EndY,440,,,,,,\r\n0,ANGLE,Ang,$EndX,$EndY,$HeartX,$HeartY,,,\r\n0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.46666,0.03333\r\n0.53333,JMPNZ,6,$Loop,,,,,,\r\n0,EndAttack,,,,,,,,\r\n",
+    "randomblaster2": "0,CombatZoneResize,121,186,526,391,TLResume,,,\r\n0,HeartTeleport,320,304,,,,,,\r\n0,HeartMode,0,,,,,,,\r\n0,TLPause,,,,,,,,\r\n0.4,SET,Loop,12,,,,,,\r\n0,SUB,Loop,$Loop,1,,,,,\r\n0,RND,Ang,360,,,,,,\r\n0,COS,X,$Ang,,,,,,\r\n0,SIN,Y,$Ang,,,,,,\r\n0,MUL,EndX,$X,200,,,,,\r\n0,MUL,EndY,$Y,200,,,,,\r\n0,MUL,X,$X,400,,,,,\r\n0,MUL,Y,$Y,300,,,,,\r\n0,GetHeartPos,HeartX,HeartY,,,,,,\r\n0,ADD,EndX,$EndX,$HeartX,,,,,\r\n0,ADD,EndY,$EndY,$HeartY,,,,,\r\n0,ADD,X,$X,$HeartX,,,,,\r\n0,ADD,Y,$Y,$HeartY,,,,,\r\n0,JMPNL,21,$EndX,50,,,,,\r\n0,SET,EndX,50,,,,,,\r\n0,JMPNG,23,$EndX,590,,,,,\r\n0,SET,EndX,590,,,,,,\r\n0,JMPNL,25,$EndY,40,,,,,\r\n0,SET,EndY,40,,,,,,\r\n0,JMPNG,27,$EndY,440,,,,,\r\n0,SET,EndY,440,,,,,,\r\n0,ANGLE,Ang,$EndX,$EndY,$HeartX,$HeartY,,,\r\n0,GasterBlaster,1,$X,$Y,$EndX,$EndY,$Ang,0.66666,0.03333\r\n0.66666,JMPNZ,6,$Loop,,,,,,\r\n0,EndAttack,,,,,,,,\r\n",
+    "spare": "0,CombatZoneResize,133,251,508,391,TLResume\r\n0,HeartTeleport,320,376,,,\r\n0,HeartMode,1,,,,\r\n0,TLPause,,,,,\r\n0.3,EndAttack,,,,,\r\n"
+  }
+}
